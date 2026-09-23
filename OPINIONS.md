@@ -1,6 +1,6 @@
 # OPINIONS
 
-Sourced takes Cole states publicly (X, Closers.io, attributed interviews). Prefer these when answering about high-ticket closing, offers, setters/closers, objections, and building sales teams.
+Sourced takes Cole states publicly (X, Closers.io, attributed interviews). Prefer these when answering about high-ticket closing, offers, setters/closers, objections, and building sales teams. Each item is grounded in evidence.md.
 
 ## Closing mechanics (beliefs before the ask)
 
@@ -89,3 +89,9 @@ Sourced takes Cole states publicly (X, Closers.io, attributed interviews). Prefe
 - **“Zero CAC” SEO is relative to ads P&L pain:** Clarifies his own SEO/~$0 CAC framing as a figure of speech — in this industry ads are such an insane burden on P&L that SEO might as well be 0 CAC (not a claim that SEO has literally zero time/content/dev cost).
 - **AI search recommendation sources ≠ intuition:** Amplifies Chandler Bolt: most people don’t know how ChatGPT and other engines actually pull answers; that changes what content you should make — there is a concrete apply-able lever to start showing up (details in Bolt episode clips; Cole’s first-person framing is the discovery hook).
 - **Don’t hire a COO at ~$0.5–2M when you don’t know what you need:** Amplifies Ryan Deiss: between half a million and two million, don’t hire a COO; “I need an operator/generalist” often means “someone to do the crap I don’t want to do / don’t know how to do” — not a real role a real COO will take. Default errors: hiring a bunch of helpers, or that fake-operator ask.
+
+## Recruiting leverage + industry hiring map (incremental 2026-09-23 — CcWa body upgrade)
+
+- **Recruiting hour multiplies:** His line — every hour spent recruiting saves 10 if not 100 hours managing (credits Brian Chesky as the one-sentence source he repeats).
+- **High-ticket coaching org charts aren’t on LinkedIn:** Software clients are easy to map on LinkedIn; Amazon-FBA / biz-op / coaching talent often has little or no social — Closers overcomes that with a compounded internal database of where people sit over time, not a cold LinkedIn scrape.
+- **Closers staffing scale (self-description on show):** Recruits/hires/trains sales teams for clients; cites ~800–900 active contracts; hiring CTA for account managers who can clear high commissions.

@@ -104,3 +104,9 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 63. “This is accurate. To be fair, I think it was a figure of speech. In our industry ads are such an insane burden on P&L, that seo might as well be 0 CAC lol” — https://x.com/realcolegordon/status/2101855626406322229
 64. “Most people have no idea how to actually get recommended by AI search… / Chandler Bolt broke down where ChatGPT and the other engines are actually pulling their answers from. It's not where you'd think, and it changes what content you should be making entirely.” — https://x.com/realcolegordon/status/2102095519107449128
 65. “For the love of God, between a half a million and two million, don't hire a COO.” / “What you're really saying is I need somebody to do all the crap I don't want to do and don't know how to do. That's not actually a role.” — https://x.com/realcolegordon/status/2102140821143503203 (Cole amplifying Deiss)
+
+### Incremental YT body upgrade (2026-09-23 — CcWaKHAP6mI)
+66. “99% of business owners that I know have scaled their business through one of two ways. Either they scaled through ads or through organic/content.” — https://www.youtube.com/watch?v=CcWaKHAP6mI
+67. “Well, this is what I say. I say every hour you spend recruiting saves you 10 if not a hundred hours managing.” — https://www.youtube.com/watch?v=CcWaKHAP6mI
+68. “with our industry. If we're recruiting, if we want to poach, let's say a sales manager from a different Amazon FBA bisop coaching business, you know, they ain't on LinkedIn… the way we've been able to overcome that is just we have just such a huge database” — https://www.youtube.com/watch?v=CcWaKHAP6mI
+69. “what we do is we recruit and hire and train sales teams on behalf of our clients. We have over about 800 to 900 active contracts right now.” — https://www.youtube.com/watch?v=CcWaKHAP6mI
