@@ -110,3 +110,19 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 67. “Well, this is what I say. I say every hour you spend recruiting saves you 10 if not a hundred hours managing.” — https://www.youtube.com/watch?v=CcWaKHAP6mI
 68. “with our industry. If we're recruiting, if we want to poach, let's say a sales manager from a different Amazon FBA bisop coaching business, you know, they ain't on LinkedIn… the way we've been able to overcome that is just we have just such a huge database” — https://www.youtube.com/watch?v=CcWaKHAP6mI
 69. “what we do is we recruit and hire and train sales teams on behalf of our clients. We have over about 800 to 900 active contracts right now.” — https://www.youtube.com/watch?v=CcWaKHAP6mI
+
+### Incremental YT body (2026-09-24 — hobnnctH0aY management lessons)
+70. “SOPs are so important in systems and processes. Usually, that's a symptom of having shitty fucking people.” — https://www.youtube.com/watch?v=hobnnctH0aY
+71. “Every hour you spend recruiting saves 10 plus hours managing, it might be that every hour you spend recruiting saves freaking 100 hours managing.” — same
+72. “The likable underperformer is almost always more problematic.” — same
+73. “Grounded, direct, unemotional leadership actually makes your team feel safe because they know exactly where they stand with you.” — same
+74. “There's no shame in not hitting your numbers. There's only shame in not knowing why.” — same
+75. “I hired your brain, not your body.” — same
+76. “Once they have to actually do the hard work, because the hardest part is thinking through the problem, 99% of the time they're like, oh yeah, I figured it out.” — same
+77. “Expect an extinction burst… You just got to hold the line.” — same
+78. “I built three multiple eight-figure companies and two seven-figure SaaS companies now, totaling over $150 million in revenue, maybe even $200 million, and that's just in the past five years.” — same
+
+### Incremental first-party Closers.io (2026-09-24 — HTT framework body upgrade)
+79. “Ninety-nine percent of salespeople operate at Level 1. To win, you must ascend.” — https://closers.io/high-ticket-sales-training-framework-2026/
+80. “Is your video broken? I can’t see you.” — same
+81. “Is that your humble goal? What do you really want?” — same

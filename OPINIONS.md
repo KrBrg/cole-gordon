@@ -1,6 +1,6 @@
 # OPINIONS
 
-Sourced takes Cole states publicly (X, Closers.io, attributed interviews). Prefer these when answering about high-ticket closing, offers, setters/closers, objections, and building sales teams. Each item is grounded in evidence.md.
+Sourced takes Cole states publicly (X, Closers.io, attributed interviews). Prefer these when answering about high-ticket closing, offers, setters/closers, objections, and building sales teams. Each item is grounded in his public writing and speech.
 
 ## Closing mechanics (beliefs before the ask)
 
@@ -68,7 +68,6 @@ Sourced takes Cole states publicly (X, Closers.io, attributed interviews). Prefe
 - **Event revenue without stage pitching:** He highlights operators (e.g. Chandler Bolt) who can pull ~$50k–$100k from a single event *without* pitching from stage — Bolt has sold from stage maybe five times in his career while still selling ~$80M+ lifetime; the lever is an event checklist/system, not keynote pressure closes.
 - **Turn closers into speakers (one-to-many):** Best salespeople can be systematized into speakers who sell one-to-many instead of one-to-one — e.g. one of Bolt's coaches (not Bolt) closing a room of ~1,500; audience often doesn't require the founder on stage if the system and speaker quality hold.
 
-
 ## Events LTV vs ads skepticism (incremental 2026-09-20)
 
 - **Highest LTV from events:** His highest-LTV clients have all come from events — they buy and then stick around for years.
@@ -95,3 +94,21 @@ Sourced takes Cole states publicly (X, Closers.io, attributed interviews). Prefe
 - **Recruiting hour multiplies:** His line — every hour spent recruiting saves 10 if not 100 hours managing (credits Brian Chesky as the one-sentence source he repeats).
 - **High-ticket coaching org charts aren’t on LinkedIn:** Software clients are easy to map on LinkedIn; Amazon-FBA / biz-op / coaching talent often has little or no social — Closers overcomes that with a compounded internal database of where people sit over time, not a cold LinkedIn scrape.
 - **Closers staffing scale (self-description on show):** Recruits/hires/trains sales teams for clients; cites ~800–900 active contracts; hiring CTA for account managers who can clear high commissions.
+
+## Management systems / get out of the weeds (YT hobnnctH0aY, 2026-09-04)
+
+- **Recruiting leverage beats SOP theater:** A two-year underperforming department didn’t fix with SOPs/training/QC; one dramatically better hire ramped in a week. Overweighting SOPs is often a symptom of bad people — great hires need less QC and sometimes write their own SOPs.
+- **Pay + interview volume for high-impact roles:** Bifurcate hiring — offshore low-impact admin; pay top-of-range or above for high-impact (sales, managers, marketers, coaches). Front-load painful high-volume recruiting instead of back-loading months of managing the least-worst hire.
+- **Culture-skill matrix / cut likable underperformers:** Plot skill vs culture fit. Lone wolves are visible; likable underperformers quietly plateau revenue — put the bottom ~20–30% on PIPs and raise standards.
+- **Grounded candor leadership:** Target direct + unemotional feedback (not relational pushover or tyrant). Holding standards (on-time, camera-on) is a different hat from performance coaching.
+- **Four properties of coaching feedback:** Specific (observable behavior), frequent (daily > monthly/annual), immediate, visible/graphed — a single behavior graph can fix a team pattern faster than repeated verbal warnings.
+- **Raise projections to ~75% hit rate:** Specific hard goals raise performance until point of ability, then cliff. Start projections low enough to hit, then raise until reps hit ~75% of the time (sweet spot); follow-up and innovation show up without micromanagement.
+- **Diminishing returns on marginal effort:** Next unit costs more time/energy; remote teams often stop early because last units aren’t worth it. Fix with observation/measurement, lower marginal cost, or raise marginal benefit (tiered pay/status) — he saw ~20% cash-collection jump the month a tiered closer commission launched.
+- **“I need a COO” is usually a task list:** Operationalize overwhelm into tasks → eliminate → automate/AI → offload to current team → only then hire; often a cheap admin/sales-ops seat, not a $250–300k COO.
+- **Five degrees of initiative / I intend to:** Outlaw wait-to-be-told and ask-what-to-do. Baseline is bring root cause + three options (“I intend to”). “I hired your brain, not your body.”
+- **Three-gate filter when everyone comes to you:** Require I-intend-to; choose initiative level; only interrupt if it can’t wait for standup/1:1. Expect an extinction burst and hold the line.
+
+## Four levels of persuasion (Closers.io HTT framework 2026-07-13)
+
+- **Ascend past features:** ~99% of salespeople operate at Level 1 (features/benefits). Win at behaviors (L2), belief systems (L3 — listen for limiting language like “at least”), and identity (L4 — validate persistence; provider / independent / never-gives-up frames).
+- **Tonality is trained; camera-on:** Use presence and meaning-listening; activate video with social-awkwardness (“Is your video broken?”). “I need to think about it” is usually missing emotional connection / unresolved objections — assess openness, don’t argue.
