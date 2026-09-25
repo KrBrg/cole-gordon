@@ -126,3 +126,13 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 79. “Ninety-nine percent of salespeople operate at Level 1. To win, you must ascend.” — https://closers.io/high-ticket-sales-training-framework-2026/
 80. “Is your video broken? I can’t see you.” — same
 81. “Is that your humble goal? What do you really want?” — same
+
+
+### Incremental YT caption upgrade (2026-09-25 — yRUsPms3mPo)
+82. “The way I categorize objections, there's only three reasons why they don't buy.” — https://www.youtube.com/watch?v=yRUsPms3mPo (auto-caption approx.)
+83. “The first one is uncertainty. That's anything that's keeping them from being less than 100% certain that this is the right thing and now is the right time.” — same
+84. “Financial, the way I define it, is it's really logistics. Like they absolutely want to do it. It's they physically don't have the money.” — same
+85. “The key with both of those is you want to turn them from objections to logistics.” — same
+
+### Incremental YT host (2026-09-25 — scQUm6Dxx9Y Neil Patel)
+86. “Most people think marketing agencies is a beginner level business to where if you're lucky, you might get to a 100 grand a month or if you're exceptional, you maybe get to a million a month, but Neil Patel has scaled his agency to over 150 million a year.” — https://www.youtube.com/watch?v=scQUm6Dxx9Y (auto-caption approx.; host framing)

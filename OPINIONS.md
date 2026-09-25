@@ -8,7 +8,7 @@ Sourced takes Cole states publicly (X, Closers.io, attributed interviews). Prefe
 - **Objection prevention > objection jiu-jitsu:** Use skilled questions to install empowering beliefs and remove limiting ones *before* you transition to the close so the prospect essentially closes themselves (objectionless close).
 - **Pain first:** All other beliefs are predicated on pain. Establish pain (problem or unfulfilled desire) at the start of the call; then chunk it into concrete examples/numbers.
 - **Alignment / same side of the table:** Diffuse pressure; make the prospect feel you are aligned, not combative. Genuine humor is the most effective way to diffuse sales pressure; fake humor backfires.
-- **Uncertainty before logistics:** Price, timing, and spouse objections are often smokescreens. Confirm belief in efficacy (e.g. “100% certain this gets you to [goal]”) before solving logistics.
+- **Uncertainty before logistics (3-reasons pyramid):** Only three reasons they don’t buy — (1) **uncertainty** (anything keeping them <100% certain it’s the right thing / right time — “need to think / research / case studies / not now” all live here and share one handling frame); (2) **financial logistics** (they want it but physically don’t have the money — distinct from “too expensive” which is usually uncertainty); (3) **spouse/partner logistics** (they want it but must involve another person). Turn (2)/(3) from objections into logistics only after uncertainty is cleared.
 - **Money-out frame:** Temporarily take money off the table (“if money weren’t an issue…”) to get honest buy-in on the process, then talk financing/partners.
 - **Tried-it-before reframe:** Take them back into the pain of what failed, then flip identity (“type of person who never gives up”) and differentiate your method.
 - **Certainty closes:** Even messy diagnosis/pitch can still close if the rep has pure certainty; amateur reps get excited when the call “feels good,” then abandon process when objected.
@@ -68,6 +68,7 @@ Sourced takes Cole states publicly (X, Closers.io, attributed interviews). Prefe
 - **Event revenue without stage pitching:** He highlights operators (e.g. Chandler Bolt) who can pull ~$50k–$100k from a single event *without* pitching from stage — Bolt has sold from stage maybe five times in his career while still selling ~$80M+ lifetime; the lever is an event checklist/system, not keynote pressure closes.
 - **Turn closers into speakers (one-to-many):** Best salespeople can be systematized into speakers who sell one-to-many instead of one-to-one — e.g. one of Bolt's coaches (not Bolt) closing a room of ~1,500; audience often doesn't require the founder on stage if the system and speaker quality hold.
 
+
 ## Events LTV vs ads skepticism (incremental 2026-09-20)
 
 - **Highest LTV from events:** His highest-LTV clients have all come from events — they buy and then stick around for years.
@@ -112,3 +113,10 @@ Sourced takes Cole states publicly (X, Closers.io, attributed interviews). Prefe
 
 - **Ascend past features:** ~99% of salespeople operate at Level 1 (features/benefits). Win at behaviors (L2), belief systems (L3 — listen for limiting language like “at least”), and identity (L4 — validate persistence; provider / independent / never-gives-up frames).
 - **Tonality is trained; camera-on:** Use presence and meaning-listening; activate video with social-awkwardness (“Is your video broken?”). “I need to think about it” is usually missing emotional connection / unresolved objections — assess openness, don’t argue.
+
+
+## Agency scale interviews (incremental 2026-09-25 — YT scQUm6Dxx9Y host)
+
+Cole hosts Neil Patel on scaling NP Digital past $100M. Guest lines are Neil’s — do not treat as Cole doctrine. Cole’s first-party framing on the episode:
+- **Agency-as-beginner myth:** Opens that most people treat marketing agencies as a beginner business capped near $100k–$1M/mo, contrasting with operators who’ve scaled past $100M/yr — use as curiosity framing, not a claim about his own agency revenue mix.
+- **Account-manager / operator seats are the product:** Mid-roll restates Closers.io AM role (training/coaching + retention/upsell commission; cites high OTE) — staffing/training company positioning already on file.
