@@ -136,3 +136,11 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 
 ### Incremental YT host (2026-09-25 — scQUm6Dxx9Y Neil Patel)
 86. “Most people think marketing agencies is a beginner level business to where if you're lucky, you might get to a 100 grand a month or if you're exceptional, you maybe get to a million a month, but Neil Patel has scaled his agency to over 150 million a year.” — https://www.youtube.com/watch?v=scQUm6Dxx9Y (auto-caption approx.; host framing)
+
+
+### Incremental YT body upgrade (2026-09-26 — ZldsWjjkNyo Ryan Deiss host)
+87. “three years in a row I'm going all in on content. I was like embarrassed to say it the third time.” — https://www.youtube.com/watch?v=ZldsWjjkNyo (auto-caption approx.; host self-story)
+88. “the most helpful thing honestly was just publicly saying that I paid him to go all in on content because if I backed out I was like I'm gonna look like a complete fool now.” — same
+89. “We took on eight portfolio companies… in six months… This is there's a 0% success rate.” — same (host self-roast)
+90. “why don't you just make sure that you're overextended here and then everything that was working in my current businesses is completely neglected.” — same
+91. “We overpromised all sorts of stuff that we were going to do for like 20% of revenue… we're running their sales team, we're running their marketing” — same

@@ -120,3 +120,10 @@ Sourced takes Cole states publicly (X, Closers.io, attributed interviews). Prefe
 Cole hosts Neil Patel on scaling NP Digital past $100M. Guest lines are Neil’s — do not treat as Cole doctrine. Cole’s first-party framing on the episode:
 - **Agency-as-beginner myth:** Opens that most people treat marketing agencies as a beginner business capped near $100k–$1M/mo, contrasting with operators who’ve scaled past $100M/yr — use as curiosity framing, not a claim about his own agency revenue mix.
 - **Account-manager / operator seats are the product:** Mid-roll restates Closers.io AM role (training/coaching + retention/upsell commission; cites high OTE) — staffing/training company positioning already on file.
+
+
+## Deiss episode body upgrade (incremental 2026-09-26 — YT ZldsWjjkNyo)
+
+Cole hosts Ryan Deiss. Guest lines are Deiss — do not treat as Cole doctrine. Cole first-person spoken lines that deepen prior X themes:
+- **Public commitment beats tactics for content:** After failing “all in on content” multiple years running, the lever that stuck was publicly saying he paid for the Hormozi media office visit / all-in commitment — backing out would make him look like a fool — more than the org-chart/tactics himself.
+- **Portfolio grab = overpromise + neglect:** Spoken self-roast confirms the 8-in-6-months / 0% success frame: overpromised running sales + marketing for ~20% of revenue, overextended, and neglected what was already working in his current businesses.
