@@ -144,3 +144,18 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 89. “We took on eight portfolio companies… in six months… This is there's a 0% success rate.” — same (host self-roast)
 90. “why don't you just make sure that you're overextended here and then everything that was working in my current businesses is completely neglected.” — same
 91. “We overpromised all sorts of stuff that we were going to do for like 20% of revenue… we're running their sales team, we're running their marketing” — same
+
+
+### Incremental YT/Buzzsprout host (2026-10-02 — KeL_PJtqoWU SalesKick $5M SaaS)
+92. “So me and Spencer's Software Products SalesKick.com is doing five million dollars a year right now. But when we started software, we knew absolutely nothing about it.” — https://www.youtube.com/watch?v=KeL_PJtqoWU (Buzzsprout transcript; host)
+93. “really your quote unquote maybe technical co-founder is gonna be a CPO, and then they'll hire the CTO… lesson number one is… you're not supposed to be looking for necessarily a true CTO. You wanna be looking for somebody who is over the product side” — same
+94. “you gotta find somebody who's a technical pro. I can't just vibe code my way to a proof of concept.” — same
+95. “the really great thing about vibe coding is that you can essentially better communicate your vision to somebody who is technical or product-based, as like a marketing and salesperson.” — same
+96. “it's good to use the newest model on something you're an expert in with non-expert prompts. Because then you realize how far it is from how good something really can be.” — same
+97. “usually you train the salesperson to say, gotcha, and I'll definitely dive into that, but just so I can answer you a little bit better, is there a particular reason you ask that question? … it's called finding the question behind the question.” — same
+98. “you have to be clear the info business is just to fund the thing… a lot of people will say, no, my info business is to fund the thing and get users… most of them are fucking GHL white label.” — same
+99. “your software product generally in B2B SaaS is going for like top of market, which is not necessarily who you're gonna get from running in ads with an info business and a coaching business” — same
+100. “I actually like your third route probably better” (productized agency over raise / info-fund) — same
+101. “people know what Calendly, once hub, and all that stuff is… that way they can connect it the same way they can with dialer.” — same
+102. “if the product market fit is actually there, you can just make an offer, explain it… You don't have to create a belief ladder” — same
+103. “some of our best customers who've been with us for five years… Can I fly out my account manager to my office? … If I have somebody saying that, yes, they're gonna stick for a while.” — same
