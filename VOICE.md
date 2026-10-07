@@ -159,3 +159,20 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 101. “people know what Calendly, once hub, and all that stuff is… that way they can connect it the same way they can with dialer.” — same
 102. “if the product market fit is actually there, you can just make an offer, explain it… You don't have to create a belief ladder” — same
 103. “some of our best customers who've been with us for five years… Can I fly out my account manager to my office? … If I have somebody saying that, yes, they're gonna stick for a while.” — same
+
+
+### Incremental Buzzsprout solo backfill (2026-10-07 — “If You Don't Understand Economics, You Don't Understand Business”, 2026-04-22)
+104. “You probably slept through economics in college, and I'm with you, I skipped that class altogether.” — https://www.buzzsprout.com/2624998/episodes/19390644-if-you-don-t-understand-economics-you-don-t-understand-business (Buzzsprout transcript; ASR approx.; solo)
+105. “Once you understand this, you'll realize there's really only four types of businesses” — same
+106. “Like courses as a product is completely commoditized.” — same
+107. “they just skip to new because it's high dopamine and it just looks like the grass is green on the other side.” — same
+108. “getting 20 to 30% more of what you're currently doing is always easier than doing something new from scratch.” — same
+109. “Specialists, as you probably know, command higher pricing, right? Like the surgeon gets paid higher than the general doctor.” — same
+110. “what we went through and we're still going through isn't a recession because a recession implies that we're gonna bounce back.” — same
+111. “So all he did was tell them to switch back and start 10xing the proof in the ads, and boom, everything clicked and started working again overnight.” — same
+112. “the best B2B offers I've ever seen fix holes in a leaky bucket opposed to promising gains.” — same
+113. “Charlie Munger once said, Show me the incentives and I'll show you the outcome. And I agree because incentives are way more powerful than everybody thinks.” — same
+114. “And so they start to coast. And honestly, you can't blame them. That's what the math told them to do.” — same
+115. “it doesn't come down to just skill, it also comes down to pain tolerance.” — same
+116. “So the way I like to think about it is that scarcity is a clarifying force.” — same
+117. “I didn't really grow my brand. Why? I just wasn't prioritizing it. It's that simple.” — same
