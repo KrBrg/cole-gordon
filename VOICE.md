@@ -176,3 +176,22 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 115. “it doesn't come down to just skill, it also comes down to pain tolerance.” — same
 116. “So the way I like to think about it is that scarcity is a clarifying force.” — same
 117. “I didn't really grow my brand. Why? I just wasn't prioritizing it. It's that simple.” — same
+
+### Incremental short posts (2026-10-08 — public x since 2026-10-07)
+118. “We also got into how almost everyone in this industry is saying the wrong numbers. I caught myself doing it for three years without even noticing.” — https://x.com/realcolegordon/status/2107893719890379209
+
+### Incremental Buzzsprout solo backfill (2026-10-08 — “After $100M+ in Business, I Wish I Knew These Lessons Sooner”, 2026-03-09)
+119. “So the lesson's simple: pay attention to what you judge and who you judge, because those judgments aren't just opinions, they're really bars around your own cage.” — https://www.buzzsprout.com/2624998/episodes/19390649 (Buzzsprout transcript; ASR approx.; solo)
+120. “But at the end of the day, I'm just gonna be honest, it's all mental masturbation disguised as productivity.” — same
+121. “So the truth is, you cannot think your way to clarity. Clarity comes from action.” — same
+122. “Like you don't walk up to a 16-year-old and he's like, man, when I grow up, I want to be a salesperson.” — same
+123. “So you do it through remembering this phrase that people can only tell you what's true in their own experience.” — same
+124. “And that's why I kind of call it like the military of business” — same
+125. “So that means for nine months, because I was trying to be such a good student, I was grinding away, sending 50 cold emails a day into a black hole.” — same
+126. “that's not a bug of success. It's a feature.” — same
+127. “It should be stacking as many skills as possible because eventually income always traces skills over time.” — same
+128. “It's almost more spiritual than it really is physical.” — same
+129. “didn't innovate a damn thing, and the guy's doing multiple seven figures right now.” — same
+130. “Because when you find it, you're going to know and you're gonna feel like the market's pulling you forward instead of having to push.” — same
+131. “And ultimately, I want to optimize for certainty, not just efficiency.” — same
+132. “which was one of the most expensive and stupid mistakes of my life.” — same
