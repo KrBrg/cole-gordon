@@ -195,3 +195,17 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 130. “Because when you find it, you're going to know and you're gonna feel like the market's pulling you forward instead of having to push.” — same
 131. “And ultimately, I want to optimize for certainty, not just efficiency.” — same
 132. “which was one of the most expensive and stupid mistakes of my life.” — same
+
+### Incremental Buzzsprout solo backfill (2026-10-10 — “How To Build A 10M/yr Outbound Setting Team (Full Course)”, 2026-07-16)
+133. “unless it's one of those two things, use the MDR model.” — https://www.buzzsprout.com/2624998/episodes/19503251
+134. “I'm just saying in our industries, 99.99% is MDR models.” — same
+135. “Anytime appointment and deal frequency is lower, it means higher base salary.” — same
+136. “do not combine the teams to do both” — same
+137. “your setter's gonna quit because your opportunity sucks.” — same
+138. “In all recruiting, the best job opportunities consist of good lead systems, good training systems, good culture, good product, on track earnings.” — same
+139. “So people at scale tend to give too many. People who are at the beginning tend to give too few.” — same
+140. “I can give you benchmarks, you still need to think for yourself.” — same
+141. “What is not curated opportunity flow is putting your setter in a Facebook group with no training and telling them to go farm. Don't do it.” — same
+142. “for calling, this should be under five minutes for all leads during the setter's business hours” — same
+143. “setter activity should be about seven hours a day” — same
+144. “three dials in the first day, one is immediate, the other two are ideally during peak hours.” — same
