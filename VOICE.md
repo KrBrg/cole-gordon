@@ -209,3 +209,15 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 142. “for calling, this should be under five minutes for all leads during the setter's business hours” — same
 143. “setter activity should be about seven hours a day” — same
 144. “three dials in the first day, one is immediate, the other two are ideally during peak hours.” — same
+
+### Spoken — Cole Gordon Podcast host lines (2026-10-12 — “How To Build A Disgustingly Profitable Brand in 2027”, w/ Orin John)
+145. “the human brain can only understand comparisons” — https://www.buzzsprout.com/2624998/episodes/19948485
+146. “anytime I can challenge a false assumption about something” — same
+147. “I'm not gonna watch this, but I'm gonna make my team watch this” — same
+148. “I'm like, well, why aren't you buying anything?” — same
+149. “Like I feel like we have a lot of momentum, and I'm just kind of intuitively gauging it, even though I can't measure it.” — same
+150. “the dude with the organic with the worst product, no refunds” — same
+151. “I'm like, dude, I'm not even posting consistently” — same
+152. “I just really released a video on systems. Bombed.” — same
+153. “What holds attention is variance in the pitch” — same
+154. “it's like the typical Cloud slop design website, it all looks the fucking same” — same
