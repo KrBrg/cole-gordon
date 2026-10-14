@@ -221,3 +221,16 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 152. “I just really released a video on systems. Bombed.” — same
 153. “What holds attention is variance in the pitch” — same
 154. “it's like the typical Cloud slop design website, it all looks the fucking same” — same
+
+### Incremental Buzzsprout solo backfill (2026-10-14 — “After Studying 3,000+ Offers…”, ~2026-05-14)
+155. “80% of the success or failure in your business comes down to one single thing. And that thing is your offer, not your funnel, not your team, not your work ethic offer.” — https://www.buzzsprout.com/2624998/episodes/19390640-after-studying-3-000-offers-this-is-how-to-build-a-10-million-offer
+156. “I've watched over the years mediocre operators rocket ship to 10 to 50 million a year on the back of a banger offer.” — same
+157. “An offer is really just what you're selling, how you communicate what you're selling, which is your positioning, and then the terms of the deal.” — same
+158. “you want good packaging, economics, and scalability. If you have all three, you have a great offer.” — same
+159. “the 3S formula is that you want to communicate what you do in a way that solves a specific problem for a specific person, a specific way.” — same
+160. “full service marketing agency. Like I'm a one-stop shop, I do everything. Okay. Now, generally, this is a disaster.” — same
+161. “you just want to assume you're in stage three, stage four, and use a mechanism anyways.” — same
+162. “your mechanism… as a simultaneous explanation of why everything they tried in the past has failed and why this is going to be different.” — same
+163. “if you can overwhelm with proof, it alone can make your ads work” — same
+164. “doing this allows your marketing to be way more attractive. It isn't full done for you. So you can systematize this one piece and still make it very profitable.” — same
+
