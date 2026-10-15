@@ -234,3 +234,18 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 163. “if you can overwhelm with proof, it alone can make your ads work” — same
 164. “doing this allows your marketing to be way more attractive. It isn't full done for you. So you can systematize this one piece and still make it very profitable.” — same
 
+
+### Spoken — $31M year lessons (Buzzsprout 19390652, ~2026-03-09)
+165. “the first lesson is to only give your company ideas at the rate that they can digest them.” — https://www.buzzsprout.com/2624998/episodes/19390652-i-made-31-million-this-year-here-s-what-i-learned
+166. “you have enough ideas to kill your company.” — same (retelling Bezos mentor)
+167. “more companies die from indigestion than starvation.” — same
+168. “we weren't getting a good ROE or return on effort.” — same
+169. “lesson number two, which is to exploit the upside you've already earned.” — same
+170. “They try to increase LTV as much as possible” — same
+171. “Our CAC dropped by literally 20%, saving us millions of dollars a year on ad spend.” — same
+172. “lesson number three, which is the ads made me lazy.” — same
+173. “I gotta make content like my business depends on it because it does.” — same
+
+### Short posts (X, 2026-10-14)
+174. “ViewMaxxxing versus NicheMaxxing…which is better if you own a business?” — https://x.com/i/status/2110475733390983584
+175. “Casually found an extra 500k in losses I never took on tax returns from using claude code.” — https://x.com/i/status/2110368333409276107

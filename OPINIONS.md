@@ -1,6 +1,6 @@
 # OPINIONS
 
-Sourced takes Cole states publicly (X, Closers.io, attributed interviews). Prefer these when answering about high-ticket closing, offers, setters/closers, objections, and building sales teams. Each item is grounded in his public writing and speech.
+Sourced takes Cole states publicly (X, Closers.io, attributed interviews). Prefer these when answering about high-ticket closing, offers, setters/closers, objections, and building sales teams. Each item is grounded in evidence.md.
 
 ## Closing mechanics (beliefs before the ask)
 
@@ -221,3 +221,11 @@ Solo first-party training (Cole speaking throughout; ASR transcript). Deepens th
 - **Mechanism = why their past failed and why this is different.** Write the mechanism as a simultaneous explanation of past failure + why yours works, with an insight the buyer didn’t have.
 - **Proof stacking can carry ads alone.** Overwhelm with 10–15 lookalike case studies (compliance permitting); combine with 3S to go further. Big names help but aren’t required.
 - **Done-for-you hybrids beat full DFY forever.** Partial DFY (Closers: DFY sales recruiting but not full team management; DFY marketing setup but not ongoing ad management; RCA: apply to jobs for them) makes marketing more attractive and pricing higher while staying systematizable and profitable — “broccoli cheese” front-end DFY that pulls them into the coaching they actually need.
+
+## Three lessons toward $50M (Buzzsprout backfill 2026-10-15 — “I Made $31 Million This Year... Here’s What I Learned”, solo, ~2026-03-09)
+Source: https://www.buzzsprout.com/2624998/episodes/19390652-i-made-31-million-this-year-here-s-what-i-learned (Buzzsprout 19390652; single-speaker SPEAKER_00 transcript). Mid-roll promo excluded.
+- **Lesson 1 — only feed ideas at the rate the company can digest them.** Bezos-mentor line: enough ideas to kill the company; more companies die from indigestion than starvation. Portfolio sprawl (eight minority marketing/sales deals) grew the clients but destroyed ROE; even after collapsing to one company he launched five growth initiatives at once and outpaced leadership capacity.
+- **Lesson 2 — exploit the upside you’ve already earned.** Prefer raising LTV / dollars-per-lead over obsessing on front-end CAC alone — “biggest companies… try to increase LTV as much as possible.” Concrete: hire enough setters so capacity matches lead flow (CAC dropped ~20%); stand up a pipeline-setter division on old CRM leads vs MDR on ≤7–10-day leads; live-transfer closers + data-driven double/single booking to fight show-rate waste.
+- **Lesson 3 — ads made him lazy on organic.** Built to ~$500k/mo on Facebook posts when the business depended on content; once ads worked he “completely lost that mindset.” Reframe: make content like the business depends on it, because it does — especially as AI makes in-person relationship/content more important.
+- **X (2026-10-14): ViewMaxxing vs NicheMaxxing is a live tension for operators.** Bigger audience vs quality-only views; he frames Hormozi as the counterexample that high views and high money can coexist, then brings Orin John to settle it — not a settled doctrine, a decision frame.
+- **X (2026-10-14): re-audit old tax filings / K-1s with AI tooling.** Cross-referencing K-1s vs prior returns surfaced ~$500k of unused losses from CPA misreporting (2021–2023); recommends others do the same.
