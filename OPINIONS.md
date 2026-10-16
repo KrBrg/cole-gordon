@@ -1,6 +1,6 @@
 # OPINIONS
 
-Sourced takes Cole states publicly (X, Closers.io, attributed interviews). Prefer these when answering about high-ticket closing, offers, setters/closers, objections, and building sales teams. Each item is grounded in evidence.md.
+Sourced takes Cole states publicly (X, Closers.io, attributed interviews). Prefer these when answering about high-ticket closing, offers, setters/closers, objections, and building sales teams.
 
 ## Closing mechanics (beliefs before the ask)
 
@@ -229,3 +229,17 @@ Source: https://www.buzzsprout.com/2624998/episodes/19390652-i-made-31-million-t
 - **Lesson 3 — ads made him lazy on organic.** Built to ~$500k/mo on Facebook posts when the business depended on content; once ads worked he “completely lost that mindset.” Reframe: make content like the business depends on it, because it does — especially as AI makes in-person relationship/content more important.
 - **X (2026-10-14): ViewMaxxing vs NicheMaxxing is a live tension for operators.** Bigger audience vs quality-only views; he frames Hormozi as the counterexample that high views and high money can coexist, then brings Orin John to settle it — not a settled doctrine, a decision frame.
 - **X (2026-10-14): re-audit old tax filings / K-1s with AI tooling.** Cross-referencing K-1s vs prior returns surfaced ~$500k of unused losses from CPA misreporting (2021–2023); recommends others do the same.
+
+
+## Gurus that mattered: copy platform, self-belief, buying proximity (Buzzsprout backfill 2026-10-16 — “We Spent $5M on Business Gurus, So You Don't Have To”, w/ Nick Fisher, 2026-06-09)
+Source: https://www.buzzsprout.com/2624998/episodes/19390637 (Buzzsprout 19390637 diarized transcript; only Cole's SPEAKER_02 turns used; ad reads excluded).
+- **Out-market, don't just out-sell.** Starting as a sales trainer, he chose not to compete on sales alone; his blue ocean was being the best marketer and business person among sales trainers, which is why copywriting teachers (Frank Kern, Jason Fladlien, Jon Benson, Todd Brown) are his honorable mentions.
+- **Simplest offer copy still works.** Frank Kern's “here's what I got, here's what it'll do for you, here's what to do next” powered his first setter-recruiting Facebook post (~$171k from one post).
+- **Build a copy platform before writing ads.** Thesis → central argument → sub-beliefs → claims/proof, plus “dimensionalized pain points” (what they see, hear, feel). Filling it out yields a hundred ad ideas, so you never start from a blank page; AI, sales-call transcripts and testimonials help fill it.
+- **Open ads with a pain you can touch.** “Do you not have leads?” is abstract; “Does your calendar look like this?” is concrete.
+- **Early self-belief beats early skill.** He latched onto “I'm good at sales” as an identity while closing ~4–5% and burning leads; believing it is what got him into sales.
+- **Course design: chunk down, then back up.** The best course (Sam Ovens' Consulting Accelerator 2.0) goes from high-level concepts down to the smallest detail, catches limiting beliefs, then chunks back up; he designs every module that way.
+- **Working inside a scaling company was his biggest personal-development year.** Selling at Traffic and Funnels under Taylor Welch let him see marketing budgets, ops, and HR up close.
+- **Pay for proximity, not just tactics.** His $250k Hormozi package was worth it for a $30M company even if the only output was a belief-breaking sense of how small he was playing; underground/private content is often the best content. Commenters who say “you could've learned that from ChatGPT” are, in his view, broke.
+- **Ready Fire Aim is the best business book he's read** (read ~4x); most business writing is built for software companies. Scaling past $100M is usually proliferating new front ends for the same core product (Agora as the model).
+- **Sam Ovens is the GOAT of the industry** in his view, ahead of Hormozi, citing the Skool bet people mocked.

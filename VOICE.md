@@ -249,3 +249,17 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 ### Short posts (X, 2026-10-14)
 174. “ViewMaxxxing versus NicheMaxxing…which is better if you own a business?” — https://x.com/i/status/2110475733390983584
 175. “Casually found an extra 500k in losses I never took on tax returns from using claude code.” — https://x.com/i/status/2110368333409276107
+
+
+### Spoken — $5M on gurus (Buzzsprout 19390637 w/ Nick Fisher, 2026-06-09)
+176. “I don't necessarily want to out compete these guys on sales” — https://www.buzzsprout.com/2624998/episodes/19390637
+177. “I want to be the best marketer and the best business person out of all these people.” — same
+178. “here's what I got, here's what'll do for you, here's what to do next. It's just like the most simple direct offer copy of all time.” — same
+179. “you're never really starting an ad from a blank page.” — same
+180. “specific and tangible and concrete language is does your calendar look like this?” — same
+181. “I sucked so bad, actually. But I thought I was good, which is what matters.” — same
+182. “underground content's sometimes the best content” — same
+183. “well, if you could have told me that, why are you broke?” — same
+184. “when you're running a $30 million company, $250k is worth it.” — same
+185. “you leave and you're like inspired fuck, like I'm playing like so small.” — same
+186. “I think he's the goat of our of our industry.” — same (on Sam Ovens)
