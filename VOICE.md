@@ -263,3 +263,16 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 184. “when you're running a $30 million company, $250k is worth it.” — same
 185. “you leave and you're like inspired fuck, like I'm playing like so small.” — same
 186. “I think he's the goat of our of our industry.” — same (on Sam Ovens)
+
+### Spoken — 75-minute sales training (Buzzsprout 19390638 w/ Jeremy Miner, 2026-06-02)
+187. “it conveys moral authority” — https://www.buzzsprout.com/2624998/episodes/19390638
+188. “oh, I can't get anything past this guy.” — same
+189. “you have to force like the things behind the wall to come out.” — same
+190. “It's like they have to qualify to you opposed to the other way around.” — same
+191. “the whole call is really about the gap.” — same
+192. “sales is a demonstration you could solve a problem for somebody else.” — same
+193. “And I'm like, it'd be different if you were good.” — same (on reps wanting free training)
+194. “what do you think is keeping you from being less than 100% certain that that is actually going to work?” — same
+195. “a lot of times is just a buyer defense mechanism and they don't even know why they're saying it.” — same
+196. “my own uh naivety and just kind of being a little delusional helped because I just thought it would be kind of easy.” — same
+197. “we booked Sprint through a LinkedIn ad.” — same
