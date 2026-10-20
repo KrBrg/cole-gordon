@@ -276,3 +276,17 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 195. “a lot of times is just a buyer defense mechanism and they don't even know why they're saying it.” — same
 196. “my own uh naivety and just kind of being a little delusional helped because I just thought it would be kind of easy.” — same
 197. “we booked Sprint through a LinkedIn ad.” — same
+
+### Spoken — Ali Abdaal hot seat (Buzzsprout 19609398, 2026-08-06)
+198. “at some point, it becomes a procrastination of scaling, right?” — https://www.buzzsprout.com/2624998/episodes/19609398
+199. “complexity is the enemy of scale.” — same
+200. “they need to be not customer service, they need to be leaders, right?” — same
+201. “renewals because only happy people pay more.” — same
+202. “So even if you don't want to succeed, I'm gonna make you fucking succeed.” — same
+203. “the novel idea to them seems better than the obvious one because of dopamine.” — same
+204. “your real value to them is you seeing the value where they don't see it.” — same
+205. “you're not taking calls, you're building the SOPs of this whole department for the next 10 years.” — same
+206. “Faster up is a lot of times faster down.” — same
+207. “If you have fun with it, you can apply a lot more pressure.” — same
+208. “Okay, if you're so good, just do it.” — same (on sales managers who won't take calls)
+209. “Well, you probably should have asked that question before you hired.” — same
