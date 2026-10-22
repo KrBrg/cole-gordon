@@ -276,3 +276,17 @@ Source: https://www.buzzsprout.com/2624998/episodes/19609398 (Buzzsprout 1960939
 - **Managers take calls first.** External hires prove it on your leads before running the team; internal promotions need executive presence. Default to a one-call close; a short triage call first is fine for beginners. Around six closers is usually when founders stop managing the team themselves and hire a sales manager (four or five if the perfect candidate shows up).
 - **Scale as fast as client results stay relatively intact.** Faster up is often faster down; there is no formula, but KPI-tracked client success is the brake.
 - **Make buying fun.** If you have fun with it, you can apply more pressure.
+
+
+## Persuasion in sales: "will you", bundled offers, belief in the prospect's vision (Buzzsprout 2026-10-20 — “Persuasion Expert: I Tricked AI Into Doing Something Illegal”, w/ Robert Cialdini)
+Source: https://www.buzzsprout.com/2624998/episodes/19990646 (Cole = SPEAKER_01, addressed as "Cole"; only his turns used; Cialdini's research claims not attributed to Cole; 1:1 audit, Dialio and SalesKick ad reads excluded).
+- **"Will you" plus the pause gets people to show up.** Booking follow-ups with "will you let me know if there's any reason you can't make that time," then pausing, is something he learned in his first sales job and still teaches for show rates.
+- **He used to overrate consistency.** He told his team consistency was the highest driver of human behavior; after Cialdini he concedes it depends on the situation.
+- **Canned labeling feels icky.** "I know you're the type of person who..." reads as a tactic; if it's not backed by something specific the person actually said, it backfires. The counter is "how do you know that about me?"
+- **Sunk cost hurts operators.** Doubling down on a weak initiative or a losing investment is commitment-and-consistency working against you; cut it when things have changed.
+- **Frame the loss, not the features.** In B2B, "your business has a leaky bucket and this patches the holes" almost always beats listing what they get.
+- **Bundle what they need, not just what they asked for.** His sales recruiting business won against firms charging four times less by packaging recruiting with consulting, sales systems and leadership training that clients didn't want but needed.
+- **Segment harder.** Many specific campaigns per segment instead of a couple of broad ones.
+- **Most people need to raise prices.** Price signals quality; he has seen conversions go up after a price increase.
+- **Believe in the prospect's vision more than they do.** If it's true and authentic, believing in what the prospect wants with more certainty than they have is one of the most influential things he's experienced on calls.
+- **Focus on what doesn't change.** Like Bezos, build on the human constants rather than the changing platforms.

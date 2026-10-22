@@ -290,3 +290,14 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 207. “If you have fun with it, you can apply a lot more pressure.” — same
 208. “Okay, if you're so good, just do it.” — same (on sales managers who won't take calls)
 209. “Well, you probably should have asked that question before you hired.” — same
+
+
+### Spoken — Robert Cialdini interview (Buzzsprout 19990646, 2026-10-20)
+210. “Well, I've misquoted you to my sales team many times because I've always said that consistency is the highest driver of human behavior.” — https://www.buzzsprout.com/2624998/episodes/19990646
+211. “change what you're saying from hey can you let me know if there's a reason you can't make it to will you let me know if there's any reason you can't make that time and then the pause right” — same
+212. “I know you're labeling me and it kind of gives me a little bit of the ick.” — same
+213. “I like the counter is how do you know that about me?” — same
+214. “your business has a leaky bucket, and this will patch some of the holes in the leaky bucket, it's almost always way more effective.” — same
+215. “we would go head-to-head with other companies that were charging, you know, four times less, and we would still win because of how it was all packaged” — same
+216. “some people watching probably need to increase their price. It's probably been too long.” — same
+217. “if you can believe in their vision more than they believe it in themselves, it is one of the most influential things I've ever experienced with somebody. Obviously, if it's true.” — same
