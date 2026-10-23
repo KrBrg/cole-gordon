@@ -301,3 +301,12 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 215. “we would go head-to-head with other companies that were charging, you know, four times less, and we would still win because of how it was all packaged” — same
 216. “some people watching probably need to increase their price. It's probably been too long.” — same
 217. “if you can believe in their vision more than they believe it in themselves, it is one of the most influential things I've ever experienced with somebody. Obviously, if it's true.” — same
+
+### Spoken — Neil Patel interview (Buzzsprout 19858683, 2026-09-24; Cole = SPEAKER_00)
+218. “we probably end up building 10 things and then two of them are useful.” — https://www.buzzsprout.com/2624998/episodes/19858683
+219. “Does it does that game changing thing mean that we lay off five people? No. That's not happened once.” — same
+220. “Does it replace his job? No, it just helps him do his job better.” — same
+221. “I think as a recruiting company, we have to become a company of companies, you know?” — same
+222. “That's my dream. Yeah. That's why I'm acquiring like crazy.” — same
+223. “It's very similar with me because my brand is sales. Yeah. But what I'm really passionate about is business and scaling businesses.” — same
+224. “I'm an SMP guy, you know. I just I just keep it basic.” (ASR for “S&P”) — same

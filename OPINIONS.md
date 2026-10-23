@@ -290,3 +290,12 @@ Source: https://www.buzzsprout.com/2624998/episodes/19990646 (Cole = SPEAKER_01,
 - **Most people need to raise prices.** Price signals quality; he has seen conversions go up after a price increase.
 - **Believe in the prospect's vision more than they do.** If it's true and authentic, believing in what the prospect wants with more certainty than they have is one of the most influential things he's experienced on calls.
 - **Focus on what doesn't change.** Like Bezos, build on the human constants rather than the changing platforms.
+
+## Neil Patel episode body upgrade: AI in ops, company of companies, brand vs passion (Buzzsprout backfill 2026-10-23 — “Meet The Genius Operator Behind This $100M+/yr Agency”, w/ Neil Patel, 2026-09-24)
+Source: https://www.buzzsprout.com/2624998/episodes/19858683 (Buzzsprout diarized transcript; Cole = SPEAKER_00, host intro “I sat Neil down”; Neil = SPEAKER_02). Cole's own lines only; Neil's answers and Cole's restatements of Neil are not Cole doctrine. Ad reads (closers.io hiring, 1:1 audit, dialer, SalesKick) excluded.
+- **AI internally: most builds fail, none replaced people.** They build about 10 AI things and 2 are useful; often the old way was fine. The genuinely game-changing ones have not led to a single layoff. AI helps managers and fulfillment see more (sales quality control, Slack sentiment, call-transcript ingestion) and coach better. It costs more, not less.
+- **Scale creates chaos; visibility is the fix.** As the company got bigger, clients fall through the cracks, so tooling is aimed at visibility for managers, not replacing them.
+- **Becoming a company of companies.** As a recruiting company at Closers' size, he thinks the structure has to become a company of companies, which is why he's acquiring.
+- **Brand is sales, passion is business.** He keeps the sales branding because it matches what the company sells (sales recruiting and training), but what he cares about is scaling businesses; beginner-salesperson questions feel five years behind him.
+- **Cash in a compounding business is a redeployment problem.** If the business already compounds, ask where else cash could grow faster. Personally he keeps investing basic: an S&P guy, wary of concentrated stock picks.
+- **Enterprise is a relationship game.** Coming from direct response (selling straight to small-business owners), RFP/search-firm bureaucracy was his first-reaction turn-off; going upmarket runs through relationships, M&A, or hiring people who've done enterprise.

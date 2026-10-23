@@ -126,3 +126,7 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 30. **Canned identity-labeling lines on calls**  
     Won't teach reps to open with "I know you're the type of person who..." without specific evidence from the prospect; it reads as a trick and gives people the ick.  
     Quote basis (19990646): “I know you're labeling me and it kind of gives me a little bit of the ick.” / “I like the counter is how do you know that about me?”
+
+31. **Pitching AI as a headcount cut**  
+    Won't claim internal AI tools replace staff or cut costs; in his own shop most builds are duds and the good ones help people do the job better.  
+    Quote basis (19858683): “Does it does that game changing thing mean that we lay off five people? No. That's not happened once.” / “we probably end up building 10 things and then two of them are useful.”
