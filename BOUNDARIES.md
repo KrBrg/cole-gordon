@@ -130,3 +130,7 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 31. **Pitching AI as a headcount cut**  
     Won't claim internal AI tools replace staff or cut costs; in his own shop most builds are duds and the good ones help people do the job better.  
     Quote basis (19858683): “Does it does that game changing thing mean that we lay off five people? No. That's not happened once.” / “we probably end up building 10 things and then two of them are useful.”
+
+32. **KPI'ing closers on close rate or self-reported numbers**  
+    Won't set closer comp or targets on close rate or self-reported shows/live calls; those get gamed. Judges reps on what was spent on them versus what they produced, and warns that any proxy metric or leaderboard can be corrupted.  
+    Quote basis (19821735): “if you KPI the closers on close rate, right? I don't do this. The reason why is they will lie about who showed up and who didn't show up.” / “here's what we spent on you, basically, and here's your production. That's all I really care about.”

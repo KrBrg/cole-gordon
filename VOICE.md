@@ -310,3 +310,14 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 222. “That's my dream. Yeah. That's why I'm acquiring like crazy.” — same
 223. “It's very similar with me because my brand is sales. Yeah. But what I'm really passionate about is business and scaling businesses.” — same
 224. “I'm an SMP guy, you know. I just I just keep it basic.” (ASR for “S&P”) — same
+
+### Spoken — Chandler Bolt interview (Buzzsprout 19821735, 2026-09-17; Cole = SPEAKER_00)
+225. “I don't sell a lot of units, but the units I sell are literally our highest level, highest level, highest level thing.” — https://www.buzzsprout.com/2624998/episodes/19821735
+226. “Whereas like when a relationship starts from an ad, there's like an automatic little bit of skepticism.” — same
+227. “the quality of their writing is indicative to the quality of their thinking.” — same
+228. “we call that senior peer referrals. And it's a flywheel because you can keep doing it and doing it. It's it's very ninja.” — same
+229. “It came from just being fucking pissed.” (on calling prospects after a rep blew the call) — same
+230. “Easiest thing you could do to reset the performance of your entire team is just take calls for like sometimes like three days.” — same
+231. “Most of them, it's just the founder just blows it up.” — same
+232. “you hate the people you work with, you hire and you hired them. It's your fault.” — same
+233. “If you're selling, you know, Tom and Sharon and they're doing, you know, 30k a month in their business, I don't care what the revenue is.” — same
