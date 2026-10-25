@@ -321,3 +321,12 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 231. “Most of them, it's just the founder just blows it up.” — same
 232. “you hate the people you work with, you hire and you hired them. It's your fault.” — same
 233. “If you're selling, you know, Tom and Sharon and they're doing, you know, 30k a month in their business, I don't care what the revenue is.” — same
+
+### Spoken — Israel / Nuve interview (Buzzsprout 19676864, 2026-08-20; Cole = SPEAKER_00)
+234. “I call it like an apprenticeship.” — https://www.buzzsprout.com/2624998/episodes/19676864
+235. “you learn through observation and osmosis.” — same
+236. “You want to punch somebody in the face with your revenue.” — same
+237. “I was like, where's the fucking like direct attribution revenue?” — same
+238. “when you micromanage somebody, you rob them of their autonomy.” — same
+239. “granted, I'm talking up my ass because I don't know” — same
+240. “I look like such a degenerate.” — same
