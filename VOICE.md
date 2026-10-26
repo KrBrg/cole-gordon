@@ -330,3 +330,14 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 238. “when you micromanage somebody, you rob them of their autonomy.” — same
 239. “granted, I'm talking up my ass because I don't know” — same
 240. “I look like such a degenerate.” — same
+
+### Spoken — Ryan Deiss interview (Buzzsprout 19785172, 2026-09-10; Cole = SPEAKER_00)
+241. “make content you like for people you like in a format you like to make it.” — https://www.buzzsprout.com/2624998/episodes/19785172
+242. “When I get into trying to do something new, I pay everybody.” — same
+243. “I'm glad you like the content. Did you buy?” — same
+244. “holy crap, like we should have done one deal, one over 12 months.” — same
+245. “if you're doing 200 and I take over your marketing and sales, you are doing 400 30 days from now.” — same
+246. “you really didn't improve performance, you just move the bar.” — same
+247. “I feel like this is just playing business, like almost a little bit of like operational mental masturbation type of thing.” — same
+248. “So I'm just like, delete, delete, delete, delete, delete, made everybody's job easier and so much better.” — same
+249. “It's like I rocket shipped and then I bam.” — same
