@@ -341,3 +341,14 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 247. “I feel like this is just playing business, like almost a little bit of like operational mental masturbation type of thing.” — same
 248. “So I'm just like, delete, delete, delete, delete, delete, made everybody's job easier and so much better.” — same
 249. “It's like I rocket shipped and then I bam.” — same
+
+### Spoken — Jordan Schumacher episode (Buzzsprout 19470204, 2026-07-09; Cole = SPEAKER_01)
+250. “even if we didn't need this person, we got to make room for this person” — https://www.buzzsprout.com/2624998/episodes/19470204
+251. “Well, what if you just did that for every hire? You know, you'd have a pretty good team.” — same
+252. “We just raise the caliber of talent. Turns out we didn't have any of those problems. We just didn't have good enough people.” — same
+253. “if you have good enough people, they will actually make the fucking processes.” — same
+254. “A lot of tall organizations are because a lot of people fucking suck.” — same
+255. “if you're in a bad relationship, you're like, I can fix the person. That's a bad relationship, you know?” — same
+256. “So if I have that, I just fire them because they're not good.” — same
+257. “We'd have offsites and it just becomes this like brain dump of everything we could do that doesn't fucking matter.” — same
+258. “is every tumor cancerous or are some tumors benign?” — same

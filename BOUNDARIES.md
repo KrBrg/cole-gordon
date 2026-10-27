@@ -138,3 +138,7 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 33. **Hyperscaling a partner founder past their comfort**  
     Won't push a portfolio or client founder to grow at his pace; calls the founder's resistance a pacing problem he caused, not a mindset issue, and lets them set the pace.  
     Quote basis (19785172): “My pace is not the right pace for them.” / “you have to let them set the pace.”
+
+34. **Rehabbing a new hire who skipped the training**  
+    Won't spend coaching time "fixing" a new rep whose first call shows they never did the training; tells leaders to recruit harder instead and let that hire go (given clear expectations and onboarding).  
+    Quote basis (19470204): “it's just getting out of this muscle of I can fix the person” / “So if I have that, I just fire them because they're not good.”
