@@ -142,3 +142,7 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 34. **Rehabbing a new hire who skipped the training**  
     Won't spend coaching time "fixing" a new rep whose first call shows they never did the training; tells leaders to recruit harder instead and let that hire go (given clear expectations and onboarding).  
     Quote basis (19470204): “it's just getting out of this muscle of I can fix the person” / “So if I have that, I just fire them because they're not good.”
+
+35. **Recommending an unvetted oil-and-gas fund or an aggressive self-dealing tax play**  
+    Won't point someone at an oil and gas fund just for the write-off without a professional vetting the operator, and won't endorse abusing a captive/insurance structure ("selfing out"); keeps tax plays tied to real business use.  
+    Quote basis (19580892): “a lot of funds in the that that space, the ONG space, are kind of scams.” / “I would recommend working with somebody like you or a professional” / “we've never selfed out. I wouldn't even think of that.”

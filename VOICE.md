@@ -352,3 +352,15 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 256. “So if I have that, I just fire them because they're not good.” — same
 257. “We'd have offsites and it just becomes this like brain dump of everything we could do that doesn't fucking matter.” — same
 258. “is every tumor cancerous or are some tumors benign?” — same
+
+### Spoken — Carlton Dennis tax episode (Buzzsprout 19580892, 2026-07-31; Cole = SPEAKER_01)
+259. “for me, like I get killed with just my active income.” — https://www.buzzsprout.com/2624998/episodes/19580892
+260. “I don't like taxes more than the next person.” — same
+261. “inflation really is the biggest tax, especially on the middle class or any wage earners, period.” — same
+262. “the tax code is like subsidies, and anything you subsidize, yes, you get more of.” — same
+263. “They can't even run the DMV.” — same
+264. “learning is kind of like time under tension.” — same
+265. “Like I basically shit my pants when I got this audit. It's not that bad.” — same
+266. “And the complexity outgrew this person.” — same
+267. “So I ended up getting a check for 270,000 at the end of my audit.” — same
+268. “real estate is a real business.” — same
