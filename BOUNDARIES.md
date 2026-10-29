@@ -146,3 +146,7 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 35. **Recommending an unvetted oil-and-gas fund or an aggressive self-dealing tax play**  
     Won't point someone at an oil and gas fund just for the write-off without a professional vetting the operator, and won't endorse abusing a captive/insurance structure ("selfing out"); keeps tax plays tied to real business use.  
     Quote basis (19580892): “a lot of funds in the that that space, the ONG space, are kind of scams.” / “I would recommend working with somebody like you or a professional” / “we've never selfed out. I wouldn't even think of that.”
+
+36. **Calling a "boring" home-service business easy, or buying a small company without its founder**  
+    Won't pitch home services or boring-business acquisition as easy money, and won't buy a sub-$10M business where the founder leaves; you have to be excellent at managing scarce labor and keep the founder in place.  
+    Quote basis (20034105): “I don't think it's easy, and I think you would have to take it insanely serious to get it to work” / “I think a lot of people think that, you know, oh, that business is easy, and those are the same people that get killed.” / “you have to keep the founder in place.” / “Unless the founder stays on”

@@ -364,3 +364,16 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 266. “And the complexity outgrew this person.” — same
 267. “So I ended up getting a check for 270,000 at the end of my audit.” — same
 268. “real estate is a real business.” — same
+
+### Spoken — Ryan Clogg "businesses we'd start" episode (Buzzsprout 20034105, 2026-10-28; Cole = SPEAKER_00) and X
+269. “Like I tried like a million different ways to do it.” — https://www.buzzsprout.com/2624998/episodes/20034105
+270. “the acquisition is entirely different and the fulfillment is entirely different. Therefore, it's an entirely different business.” — same
+271. “The real issue is we just weren't charging them the right way.” — same
+272. “you can have a plan, but you have no idea what the fuck's gonna happen until you get on the calls.” — same
+273. “the run it back framework is you find something that makes you a fuck ton of money, and then you scale it up, and then you sell it, and you just do it again.” — same
+274. “we just grew shit way too fucking fast.” — same
+275. “usually it's like if I can get the demand, I can figure out the people.” — same
+276. “If I'm looking at acquiring it, I'm looking at a dumpster fire, basically.” — same
+277. “So what really matters is profit.” — same
+278. “Now it's like if your ad angle is working remote, bro, nobody cares.” — same
+279. “What I learned is that it’s a completely different business. Different acquisition, different fulfillment, even what they’re actually buying is different.” — https://x.com/realcolegordon/status/2115549166617194800
