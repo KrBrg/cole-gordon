@@ -377,3 +377,18 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 277. “So what really matters is profit.” — same
 278. “Now it's like if your ad angle is working remote, bro, nobody cares.” — same
 279. “What I learned is that it’s a completely different business. Different acquisition, different fulfillment, even what they’re actually buying is different.” — https://x.com/realcolegordon/status/2115549166617194800
+
+### Spoken — Jason Fladlien one-to-many selling episode (Buzzsprout 19402504, 2026-06-25; Cole = SPEAKER_02) and X
+280. “I can actually come harder at you if I can also like let out those release valves of a little bit of humor.” — https://www.buzzsprout.com/2624998/episodes/19402504
+281. “identity is the highest driver of behavior” — same
+282. “A lot of people don't even understand that pricing is the number one signal of quality.” — same
+283. “It's just some kid in his mom's basement who has 10 clients.” — same
+284. “you can't really influence somebody if you're angry at them.” — same
+285. “It just goes to show a good offer beats all the persuasion.” — same
+286. “Do you see how I'm making it so extreme?” — same
+287. “it's like that extra three percent effort. It's all it takes to really lock it in.” — same
+288. “Oftentimes I get too intellectual.” — same
+289. “Don't say, Do you not have any leads? Say, does your calendar look like this?” — same
+290. “it's just the fundamentals done at a 10 out of 10 level across all of the fundamentals.” — same
+291. “I was like, these ads are the worst ads I've ever seen.” — same
+292. “Instead of changing my business model, I’m copying it into a brand new industry and launching it in November…” — https://x.com/realcolegordon/status/2115866256104648837
