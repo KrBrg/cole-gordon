@@ -392,3 +392,17 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 290. “it's just the fundamentals done at a 10 out of 10 level across all of the fundamentals.” — same
 291. “I was like, these ads are the worst ads I've ever seen.” — same
 292. “Instead of changing my business model, I’m copying it into a brand new industry and launching it in November…” — https://x.com/realcolegordon/status/2115866256104648837
+
+### Spoken — Sam Ovens Skool episode (Buzzsprout 19549905, 2026-07-25; Cole = SPEAKER_03) and X
+293. “I realized it's actually something you really set with the initial conditions.” — https://www.buzzsprout.com/2624998/episodes/19549905
+294. “my inner sales guy can't help it.” — same
+295. “I find that one-on-ones can be an excuse to just not talk to your employees for six days of the week.” — same
+296. “I'm not even gonna type out a Slack. I just pick up the phone and I have a three-minute conversation done.” — same
+297. “how are you gonna coach a salesperson when you don't know how to sell?” — same
+298. “if you want to know the truth, you have to go analog and just write to the source.” — same
+299. “people want to not think, which is why they like AI a lot.” — same
+300. “I just only try to read what I'm most interested in in the moment.” — same
+301. “look, I'm not gonna go conquer, you know, all of Europe.” — same
+302. “even the companies that are saying AI is gonna take all the jobs are hiring the most amount of engineers at the highest pay.” — same
+303. “you have to question the answer, you know.” — same
+304. “Get both and that’s where a lot of money gets made.” — https://x.com/realcolegordon/status/2116273944164741196

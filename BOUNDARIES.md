@@ -154,3 +154,7 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 37. **Hiding objections or overpromising on a sales call**  
     Won't coach reps to pretend objections don't exist or to overpromise to get the yes; preempts objections, tells the prospect it will be hard, and ties down the sale.  
     Quote basis (19402504): “In fact, they do the exact opposite and pretend all the objections don't exist.” / “They overpromise, overpromise, overpromise. You're telling them it's gonna be hard, right?”
+
+38. **Managing by scheduled one-on-ones or with managers who never did the job**  
+    Won't treat a weekly one-on-one as enough contact or let someone coach a role they've never done; says pick up the phone daily and promote people who know the job.  
+    Quote basis (19549905): “I find that one-on-ones can be an excuse to just not talk to your employees for six days of the week.” / “how are you gonna coach a salesperson when you don't know how to sell?”
