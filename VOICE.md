@@ -406,3 +406,18 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 302. “even the companies that are saying AI is gonna take all the jobs are hiring the most amount of engineers at the highest pay.” — same
 303. “you have to question the answer, you know.” — same
 304. “Get both and that’s where a lot of money gets made.” — https://x.com/realcolegordon/status/2116273944164741196
+
+### Spoken — VSL Queen agency episode (Buzzsprout 19390639, 2026-05-23; Cole = SPEAKER_01) and X
+305. “you want the best case studies in the industry, basically. And then once you get those, everything after that is like so downhill.” — https://www.buzzsprout.com/2624998/19390639/transcript.json
+306. “Like I'll write the ad, but if I don't have to shoot it, like great.” — same
+307. “but do you want to do that or do you want to make money?” — same
+308. “is just look at how much cash you collected and how much went to ads.” — same
+309. “a good exitable business is a good business to just have.” — same
+310. “it's just always grass is greener on the other side, in my experience.” — same
+311. “Because if you're just like, hey, I do ads, you're basically a commodity, right?” — same
+312. “okay, great, but everybody thinks they're a busy professional. So you just still get the bottom of the market.” — same
+313. “So the key is is you have to speak to the problem that those people are experiencing that the other people won't resonate with.” — same
+314. “So, like these are things that is that replacing anybody on my team? No, but is it making my company work better?” — same
+315. “and then bada bing, bada boom. It's good. Nice and easy.” — same
+316. “I end ritually at five every single time.” — same
+317. “Start a DTC ecom brand in a proven space like pets, barely differentiate the product, and bolt a high-ticket backend with a setter and sales team onto it.” — https://x.com/realcolegordon/status/2116636329563865510
