@@ -421,3 +421,20 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 315. “and then bada bing, bada boom. It's good. Nice and easy.” — same
 316. “I end ritually at five every single time.” — same
 317. “Start a DTC ecom brand in a proven space like pets, barely differentiate the product, and bolt a high-ticket backend with a setter and sales team onto it.” — https://x.com/realcolegordon/status/2116636329563865510
+
+### Spoken — Buzzsprout 19390641 “9-Figure CEO: How to Scale Your Business at Every Level” (2026-05-14, w/ Josiah Grimes; Cole = SPEAKER_02)
+318. “I think income traces skills over time.” — https://www.buzzsprout.com/2624998/19390641/transcript.json
+319. “as a young person, I want to learn the skill that's closest to value creation” — same
+320. “Yeah, titles don't mean anything. You're COO now.” — same
+321. “if it's not that important, they won't write a memo.” — same
+322. “They have I call it like high processing power, which is probably my political correct way of saying it” — same
+323. “I don't even have the call if they don't bring their data” — same
+324. “I can't tell you what to do if I don't see it” — same
+325. “you want to create wealth through concentrate, yeah, concentrated act active income and then stay wealthy by diversified passive income.” — same
+326. “you could just inverse all my investments.” — same
+327. “If they're on Outlook, dude, straight to the top.” — same
+328. “when your marketing team says the leads are fine and the sales team says they're not” — same
+
+### Short posts — incremental 2026-11-02 (X, 2026-11-01)
+329. “At that price the unit economics are insane. You need a fraction of the team you’d need selling a $5k product.” — https://x.com/realcolegordon/status/2117013819243544593
+330. “Pace Morby is running a genius model right now, and it all comes down to taxes…” — https://x.com/realcolegordon/status/2116968520789455306

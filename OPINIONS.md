@@ -418,3 +418,19 @@ Source: https://www.buzzsprout.com/2624998/19390639/transcript.json (Cole = SPEA
 - **AI makes the company work better; it isn't replacing labor.** Uses: an AI-generated five-second hook spliced onto a proven ad to make many variations; agents that set up client funnels; call scoring that flags qualified calls that could have closed before the follow-up; an AI search over a client-wins Slack channel to pull matching case studies. Hire one builder for it.
 - **Hard stop at five.** Starts at 7-8, ends at five every day, efficient inside that window; boundaries are how you build a life.
 - **Pet DTC with a high-ticket backend (X, 2026-10-31).** Barely differentiated DTC product in a proven space like pets, plus a setter and sales team selling a $5-10K offer on the back end.
+
+
+## Skill closest to value creation, memos as a thinking test, stable leaders, specific-story interviews, bring your data, and AI as a second read on lead quality (Buzzsprout 19390641 backfill, 2026-05-14 — “9-Figure CEO: How to Scale Your Business at Every Level”, w/ Josiah Grimes of New Reach)
+Source: https://www.buzzsprout.com/2624998/19390641/transcript.json (Cole = SPEAKER_02, host; only Cole's turns attributed). Episode page https://www.buzzsprout.com/2624998/episodes/19390641. Plus X 2026-11-01.
+- **Income traces skills.** Pick an industry you like, join a dynamic, non-bureaucratic up-and-comer, and learn the skill closest to value creation (credits Dharmesh).
+- **Titles are not free.** He once handed his overloaded first ops hire the COO title because titles "don't mean anything"; the cost showed up when she benchmarked COO pay against companies far bigger than his.
+- **Memos reveal thinking.** Proposals need a memo (borrowed from Bezos): unimportant ideas never get written up, and the memo shows how the person thinks. He'd use it in hiring too, e.g. a memo responding to his 35-page annual plan.
+- **Hire for processing power where it can't be trained.** He can train sales, not finding the constraint in a company's sales process; other roles want stability first.
+- **Leaders must be emotionally stable.** An emotional manager's swings land on everyone under them; his best managers are remarkably stable people.
+- **Interview with "tell me about a specific story when..."** Generalities are a tell; good salespeople have war stories, and someone claiming a big win should know the details.
+- **No data, no call.** One-on-ones require the client's data; sometimes the action item is to go fix the data, because he can't say what to do without seeing it.
+- **Concentrate to build wealth, diversify to keep it.** Create wealth through concentrated active income, stay wealthy through diversified passive income (he jokes you could inverse his real estate picks).
+- **Second company only near diminishing returns.** Judge the marginal return of more effort in the main business before adding a product line or portfolio company.
+- **AI makes people more efficient first.** Sales-manager QC gets an AI first pass. Pair the quantitative MQL score with an AI qualitative lead-quality score from call transcripts to settle "the leads are fine" versus "they're not".
+- **High-ticket into fragmented markets (X, 2026-11-01).** At $70k+ per unit the unit economics are insane and you need a fraction of the team a $5k product needs.
+- **Tax-aware models (X, 2026-11-01).** Teaching real estate and recycling the profits into real estate so depreciation wipes out most of the tax bill is a genius model, with one catch that stops most owners.
