@@ -438,3 +438,24 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 ### Short posts — incremental 2026-11-02 (X, 2026-11-01)
 329. “At that price the unit economics are insane. You need a fraction of the team you’d need selling a $5k product.” — https://x.com/realcolegordon/status/2117013819243544593
 330. “Pace Morby is running a genius model right now, and it all comes down to taxes…” — https://x.com/realcolegordon/status/2116968520789455306
+
+### Spoken — Buzzsprout 19390643 “How This Ex-NFL Player Built a $50M Fitness Company (Feat. John Madsen)” (2026-05-04; Cole = SPEAKER_00)
+331. “Like anybody could identify everybody wants to identify as the high performer.” — https://www.buzzsprout.com/2624998/19390643/transcript.json
+332. “You thought of the psychographics and you like punched them in the gut.” — same
+333. “I could create the chaos.” — same
+334. “I scaled and then let the infrastructure catch up” — same
+335. “Like you got to stress the systems to and even break them a little bit to know how to actually rebuild them.” — same
+336. “The number one constraint in my business isn't demand.” — same
+337. “dude, if I script out a YouTube video, man, that's like my week.” — same
+338. “Yeah, I'd always say like, dude, if we had to go knock some doors, I'd be knocking doors.” — same
+339. “The most of the people who are just like super advanced with AI, they have a lot of time and they're not making any money.” — same
+340. “Anytime I don't have to make creative, yeah, that's great.” — same
+341. “Company emails have exponentially higher close rate, show rate, everything than Gmails.” — same
+342. “how do you really call out and gut punch wealthy guys and then offer them something that's 27 bucks?” — same
+343. “I can't tell you how many times I've just fixed it by paying people more.” — same
+344. “The brain that helps you with entrepreneurship hurts you with investing.” — same
+345. “I'd probably just insert myself into a different opportunity vehicle with my current skill sets and be fine.” — same
+
+### Short posts — incremental 2026-11-03 (X, 2026-11-02)
+346. “It’s also the model I’d buy into if we ever wanted to take my company from $100M to a billion.” — https://x.com/realcolegordon/status/2117376208396796404
+347. “The catch is the cash flow is brutal early on, because clients pay you 30 or 60 days later while you’re paying your people now.” — https://x.com/realcolegordon/status/2117330907010908228

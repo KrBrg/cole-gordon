@@ -166,3 +166,7 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 40. **Advising an owner who won't show the numbers**  
     Won't diagnose or prescribe for a business that doesn't bring its data; the first action item is to fix the data. Won't accept generalities in place of a specific story when interviewing.  
     Quote basis (19390641): “I don't even have the call if they don't bring their data” / “I can't tell you what to do if I don't see it” / “tell me about a specific story when”
+
+41. **Building infrastructure ahead of growth to excuse thin margins**  
+    Won't accept "our margins are bad but we've built the infrastructure to scale"; says scale first and let infrastructure catch up, because you only learn which systems and leaders you need once growth stresses them.  
+    Quote basis (19390643): “my margins aren't good, but you know, we could like we have all this infrastructure to be able to scale.” / “The way I've always done it is I scaled and then let the infrastructure catch up” / “Like you got to stress the systems to and even break them a little bit to know how to actually rebuild them.”
