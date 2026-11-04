@@ -170,3 +170,7 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 41. **Building infrastructure ahead of growth to excuse thin margins**  
     Won't accept "our margins are bad but we've built the infrastructure to scale"; says scale first and let infrastructure catch up, because you only learn which systems and leaders you need once growth stresses them.  
     Quote basis (19390643): “my margins aren't good, but you know, we could like we have all this infrastructure to be able to scale.” / “The way I've always done it is I scaled and then let the infrastructure catch up” / “Like you got to stress the systems to and even break them a little bit to know how to actually rebuild them.”
+
+42. **Judging setters by dials per day**  
+    Won't use dials per day as the setter metric; says it's dumb without strong baselines and that measured working time is far better, because output per extra hour has diminishing returns and being observed changes behavior.  
+    Quote basis (20065974): “Yeah, dials per day is dumb.” / “it it can only work if you have really good baselines of data. But again, working time is is far better.” / “the beauty of measuring working time like this is the behavior changes.”

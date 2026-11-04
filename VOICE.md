@@ -459,3 +459,25 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 ### Short posts — incremental 2026-11-03 (X, 2026-11-02)
 346. “It’s also the model I’d buy into if we ever wanted to take my company from $100M to a billion.” — https://x.com/realcolegordon/status/2117376208396796404
 347. “The catch is the cash flow is brutal early on, because clients pay you 30 or 60 days later while you’re paying your people now.” — https://x.com/realcolegordon/status/2117330907010908228
+
+### Spoken — Buzzsprout 20065974 “The Exact Playbook We Used to Build a $670K/mo SaaS” (2026-11-03, w/ Matt Ryder; Cole = SPEAKER_00)
+348. “you also can't nuke a SaaS product, anyways, with paid ads.” — https://www.buzzsprout.com/2624998/20065974/transcript.json
+349. “what you just described is what I call it is cost linking, benefit linking.” — same
+350. “Then there's this middle phase where you seem like you're really thirsty.” — same
+351. “And what most people do with their follow-up is they quit right before the thirst.” — same
+352. “They're not going to be a good salesperson.” — same
+353. “And like the better the people are the less management they take.” — same
+354. “you want to have a name that's sticky enough to where people will remember it at a mastermind event.” — same
+355. “standalone events, I've only seen it really work with the brand.” — same
+356. “Like it really should be called sales coach” — same
+357. “as your expertise grows, you tend to talk more in load-bearing phrases.” — same
+358. “You have to become the type of business good talent wants to work for.” — same
+359. “And don't be afraid to pay Steph Curry, Steph Curry rates and give them special treatment.” — same
+360. “I would work for 1% commission if it means I'm gonna make 100 grand a month.” — same
+361. “Assume they will gamify it and then ask, does that um, does them gamifying it help me?” — same
+362. “it shouldn't work like a static system, it should work like an algorithm.” — same
+363. “as soon as somebody texts you back, the best sales practice is call them immediately.” — same
+
+### Short posts — incremental 2026-11-04 (X, 2026-11-03)
+364. “I came in as a partner a quarter into it, so we walked through the whole thing.” — https://x.com/realcolegordon/status/2117595149278871698
+365. “Three of his reps made 12,500 dials in one week and talked to ONLY 50 people.” — https://x.com/realcolegordon/status/2117741861754531936
