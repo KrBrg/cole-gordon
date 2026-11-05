@@ -481,3 +481,24 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 ### Short posts — incremental 2026-11-04 (X, 2026-11-03)
 364. “I came in as a partner a quarter into it, so we walked through the whole thing.” — https://x.com/realcolegordon/status/2117595149278871698
 365. “Three of his reps made 12,500 dials in one week and talked to ONLY 50 people.” — https://x.com/realcolegordon/status/2117741861754531936
+
+### Short posts — incremental 2026-11-05 (X, 2026-11-04)
+366. “Most dialers pitch features to setters. Matt pitched one thing to the business owner: talk to more of your leads.” — https://x.com/realcolegordon/status/2118100988275892378
+
+### Spoken — “How We Went From $0 to 8-Figures in 8 Months With Bryan Ostermiller” (2026-04-22, Buzzsprout transcript, Cole = SPEAKER_05)
+367. “a sales team is the only team in the world that can't perform if uninspired.” — https://www.buzzsprout.com/2624998/19390646/transcript.json
+368. “the quality of your company is determined by the quality of what happens on the front lines.” — same
+369. “QC. How much QC? Usually not enough.” — same
+370. “you don't have to be the best salesperson in the world, you just have to be pretty damn good at selling your specific thing” — same
+371. “it does require you breaking a few eggs to make the omelet, so to speak.” — same
+372. “you also don't even know what systems to build until you start to stress and break the systems.” — same
+373. “And then the other thing is too, is if they suck, you just cut them.” — same
+374. “why don't you just take a day and just set? Just try it.” — same
+375. “which is also why player coaches are bullshit.” — same
+376. “if you watch the incentive, you can see the behavior.” — same
+377. “if you could stay neutral and playful at the close, people will just be honest.” — same
+378. “But if you handle a spouse without doing uncertainty first, you're actually handling a smokescreen.” — same
+379. “Permission increases compliance.” — same
+380. “I would think you're an alien if you weren't a little bit nervous.” — same
+381. “So you trick yourself into follow-ups.” — same
+382. “I don't want to give somebody a Tony Robbins breakthrough.” — same

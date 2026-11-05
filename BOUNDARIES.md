@@ -174,3 +174,7 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 42. **Judging setters by dials per day**  
     Won't use dials per day as the setter metric; says it's dumb without strong baselines and that measured working time is far better, because output per extra hour has diminishing returns and being observed changes behavior.  
     Quote basis (20065974): “Yeah, dials per day is dumb.” / “it it can only work if you have really good baselines of data. But again, working time is is far better.” / “the beauty of measuring working time like this is the behavior changes.”
+
+43. **Trashing the competitor on a sales call**  
+    Won't win a deal by crapping on the other company the prospect is weighing; educates them on the options instead, because diminishing the alternative just reads as a closer saying whatever they have to say.  
+    Quote basis (Bryan Ostermiller ep): “I'm not necessarily diminishing the other because when you diminish the other thing, they're just what's in their brain?” / “What I try to do is just educate them on the options.”
