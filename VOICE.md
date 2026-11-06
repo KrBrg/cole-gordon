@@ -502,3 +502,30 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 380. “I would think you're an alien if you weren't a little bit nervous.” — same
 381. “So you trick yourself into follow-ups.” — same
 382. “I don't want to give somebody a Tony Robbins breakthrough.” — same
+
+### Spoken — Buzzsprout 19390647 “$250M of Sales Experience in 2 Hours With Matt Ryder” (2026-04-22, Cole = SPEAKER_00)
+383. “when the fun meter goes up, the pressure meter can also go up.” — https://www.buzzsprout.com/2624998/19390647/transcript.json
+384. “you have to learn the rules before you break the rules.” — https://www.buzzsprout.com/2624998/19390647/transcript.json
+385. “I personally like to hire extremely assertive people. And then and then what I do is I just try to calm them the fuck down.” — https://www.buzzsprout.com/2624998/19390647/transcript.json
+386. “I always say that sales is the military of business.” — https://www.buzzsprout.com/2624998/19390647/transcript.json
+387. “it's the only part of business where you actually exchange money.” — https://www.buzzsprout.com/2624998/19390647/transcript.json
+388. “if you're actually good, the prospect is surprised.” — https://www.buzzsprout.com/2624998/19390647/transcript.json
+389. “I call it sweeping under the rug” — https://www.buzzsprout.com/2624998/19390647/transcript.json
+390. “it communicates to them that they can't bullshit you.” — https://www.buzzsprout.com/2624998/19390647/transcript.json
+391. “First, let's just answer the most important question. Do you think this is gonna work?” — https://www.buzzsprout.com/2624998/19390647/transcript.json
+392. “Because none of these objections matter if they don't think it's gonna fucking work.” — https://www.buzzsprout.com/2624998/19390647/transcript.json
+393. “They get to objections, no fucking system.” — https://www.buzzsprout.com/2624998/19390647/transcript.json
+394. “I'm gonna pitch the price, I'm gonna deal with 15 minutes of whatever the you know the hell they're gonna say, and then they're gonna buy.” — https://www.buzzsprout.com/2624998/19390647/transcript.json
+395. “you have to hold the frame and you have to fit the the people on your team need to fit within your system opposed to trying to bend the system to them.” — https://www.buzzsprout.com/2624998/19390647/transcript.json
+396. “when people know where they stand with you, it actually makes them feel safe.” — https://www.buzzsprout.com/2624998/19390647/transcript.json
+397. “there's regression to the mean.” — https://www.buzzsprout.com/2624998/19390647/transcript.json
+398. “It's basically the highest leverage thing to change with the lowest cost of change.” — https://www.buzzsprout.com/2624998/19390647/transcript.json
+399. “for them to outproduce energy, they need energy.” — https://www.buzzsprout.com/2624998/19390647/transcript.json
+400. “sometimes you take the pillars from this one and you swap it with this one over here, and then call it a floating pillar structure” — https://www.buzzsprout.com/2624998/19390647/transcript.json
+401. “If I'm underslept. Because a lot of times on a good night of sleep, you're like, oh, that's not even a problem.” — https://www.buzzsprout.com/2624998/19390647/transcript.json
+402. “I try to focus people more on those questions, which are really regulatory compliance and also consumer behavior, yeah, opposed to just is it gonna be good enough?” — https://www.buzzsprout.com/2624998/19390647/transcript.json
+403. “if a manager is actually doing what they should be doing, which is fucking just QCing a bunch of sales calls… I don't know how helpful this fucking dashboard you build is.” — https://www.buzzsprout.com/2624998/19390647/transcript.json
+404. “But the hardest sales rep to hire is the first one.” — https://www.buzzsprout.com/2624998/19390647/transcript.json
+405. “Most people who decrease their price make less money, I would say, on average.” — https://www.buzzsprout.com/2624998/19390647/transcript.json
+406. “It's that's the easiest B2B pitch in the world.” — https://www.buzzsprout.com/2624998/19390647/transcript.json
+407. “they don't want to feel stupid. So they don't say, dude, I don't understand anything you're saying.” — https://www.buzzsprout.com/2624998/19390647/transcript.json
