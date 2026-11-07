@@ -194,3 +194,12 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 47. **Bending the company around a salesperson who won't sell**  
     Won't rewrite marketing or the funnel because a rep demands it while missing quota; says hold the frame, people fit the system, and feedback from low effort/efficiency doesn't weigh.  
     Quote basis (19390647): “people on your team need to fit within your system opposed to trying to bend the system to them” / “I hired you for sales” / “If those things don't check out… I don't really care what your feedback is”
+
+
+48. **Throwing new salespeople or executives into the fire cold**  
+    Won't onboard by dumping people into chaos and hoping they swim; says that burns good people who lose confidence in the first months — put 10x the effort on the front end instead.  
+    Quote basis (19390645): “So I will just throw them into the fire.” / “And so we burned a lot of good people.” / “putting 10 times more of the effort on the front end.”
+
+49. **Running a campaign when you need a company**  
+    Won't treat a short spike (50k→800k/mo that dies in two years) as the win; holds the company-not-campaign frame for longevity and for making the team feel safe through hard pivots.  
+    Quote basis (19390645): “you want to make sure you don't have a campaign, you want to have a company.” / “it makes your team also feel safe that they can actually even rely on you too.”

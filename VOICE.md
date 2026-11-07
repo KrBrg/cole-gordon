@@ -529,3 +529,24 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 405. “Most people who decrease their price make less money, I would say, on average.” — https://www.buzzsprout.com/2624998/19390647/transcript.json
 406. “It's that's the easiest B2B pitch in the world.” — https://www.buzzsprout.com/2624998/19390647/transcript.json
 407. “they don't want to feel stupid. So they don't say, dude, I don't understand anything you're saying.” — https://www.buzzsprout.com/2624998/19390647/transcript.json
+
+
+### Short posts — incremental 2026-11-07 (X, 2026-11-05/06)
+408. “I got that top-down approach from what Alex Becker did with Hyros.” — https://x.com/realcolegordon/status/2118780464626278889
+409. “I have a client doing $60M a year selling one piece of equipment for $70k+ to a fragmented market.” — https://x.com/realcolegordon/status/2118508671496056868
+410. “Facebook ads and a sales team, the same model I run…” — same
+411. “If you’re doing $5M a year and you hire a CMO, Matt Ryder says you’ll probably have to fire them in six months…” — https://x.com/realcolegordon/status/2118825762346443179
+412. “Matt Ryder runs every marketing channel at 50% on purpose…” — https://x.com/realcolegordon/status/2118418069827858684
+
+### Spoken — Buzzsprout 19390645 “Dean Graziosi: Everything He's Learned After $2 Billion In Revenue” (2026-04-22, Cole = SPEAKER_00)
+413. “It's how I shifted really looking at business, is you want to make sure you don't have a campaign, you want to have a company.” — https://www.buzzsprout.com/2624998/19390645/transcript.json
+414. “So I will just throw them into the fire. And then, you know, what happens is they just don't get off to a good start in the first couple of months, and then they lose their confidence.” — same
+415. “And so we burned a lot of good people.” — same
+416. “And then the solution's really just like putting 10 times more of the effort on the front end.” — same
+417. “the top 40% is doing well, the bottom 60% is getting less affordable and less affordable.” — same
+418. “they're kind of going for a life raft.” — same
+419. “And we still were able to keep going. And a lot of people, it makes your team also feel safe that they can actually even rely on you too.” — same
+420. “I'm like, let me just fix everything all at once. And where I felt like I ended up adding the most leverage was really creating a great relationship with the managers.” — same
+421. “I'm your servant. How do I just support you?” — same
+422. “it really is that like servant leadership.” — same
+423. “we're so focused on the funnel or the ads or like the transaction that we we don't necessarily embrace that as much.” — same
