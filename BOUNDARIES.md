@@ -203,3 +203,20 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 49. **Running a campaign when you need a company**  
     Won't treat a short spike (50k→800k/mo that dies in two years) as the win; holds the company-not-campaign frame for longevity and for making the team feel safe through hard pivots.  
     Quote basis (19390645): “you want to make sure you don't have a campaign, you want to have a company.” / “it makes your team also feel safe that they can actually even rely on you too.”
+
+
+50. **Making clickbait you don't believe just because the topic is an outlier**  
+    Won't keep packaging videos like "How to Become Unrecognizable" that he doesn't care about and can't fit his real philosophy into; would rather title more directly and talk about what he can uniquely bring, even if it's less clickbaity.  
+    Quote basis (19390648): “I'm making a video called How to Become Unrecognizable in Nine Minutes.” / “I don't care about that. I don't know anything about it.” / “it almost is like a dissociated brand feeling for me.”
+
+51. **Standing up a huge media team from zero and editing for the sake of editing**  
+    Won't treat a $100k/month media team as the starting point, or pile on animations and B-roll that don't enhance the message; says what matters is the content.  
+    Quote basis (19390648): “I went to an event and came away thinking I needed like an a hundred thousand dollar a month media team from zero” / “I think what really matters is just the content.” / “I think a lot of editors just edit for the sake of editing.”
+
+52. **Starting a pile of new things at peak revenue instead of doubling down**  
+    Won't treat "I climbed the mountain, I need a new challenge" as a reason to launch extra companies while the core is working; says the hard, less-dopamine work is doubling down and taking $40–50M toward $100M.  
+    Quote basis (19390648): “instead of just doubling down on just doing more of what's working, I just started a bunch of new stuff.” / “the hard thing is just being disciplined and okay, doubling down on what's working” / “I've fucked this up a million times”
+
+53. **Selling a pure info course to strangers who don't know you**  
+    Won't expect cold ads to a course (or "just coach with me") to work when nobody knows who you are; says that product is dead without trust, even if the same course would sell to an existing audience.  
+    Quote basis (19390648): “it's dead if nobody knows who you are. And it's pure info.” / “if I'm just running an ad, you don't know who I am, it's hard to it's hard to sell, just coach with me.”

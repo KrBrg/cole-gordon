@@ -550,3 +550,27 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 421. “I'm your servant. How do I just support you?” — same
 422. “it really is that like servant leadership.” — same
 423. “we're so focused on the funnel or the ads or like the transaction that we we don't necessarily embrace that as much.” — same
+
+
+### Short posts — incremental 2026-11-08 (X, 2026-11-07)
+424. “Some of the biggest lifts I’ve seen in companies come from hiring a whole team that’s already worked together…” — https://x.com/realcolegordon/status/2119142847215477122
+
+### Spoken — Buzzsprout 19390648 “How Dan Koe Gained 5.4M Followers In 2 Hours/Day” (2026-03-10, Cole = SPEAKER_00)
+425. “I'm making a video called How to Become Unrecognizable in Nine Minutes.” — https://www.buzzsprout.com/2624998/19390648/transcript.json
+426. “I don't care about that. I don't know anything about it.” — same
+427. “it almost is like a dissociated brand feeling for me.” — same
+428. “just talk about what I actually want to talk about, which is like really the stuff that I can uniquely bring to the world” — same
+429. “I went to an event and came away thinking I needed like an a hundred thousand dollar a month media team from zero” — same
+430. “I don't think I've ever seen a YouTube comment on any video that's like, man, I wish you could add more animations in B-roll and editing to this video.” — same
+431. “I think what really matters is just the content.” — same
+432. “I think a lot of editors just edit for the sake of editing.” — same
+433. “I think there will be a lot of like vibe-coded or light-coded one to three K.” — same
+434. “I think that'll be the next wave of internet marketing.” — same
+435. “it's dead if nobody knows who you are. And it's pure info.” — same
+436. “I've fucked this up a million times” — same
+437. “instead of just doubling down on just doing more of what's working, I just started a bunch of new stuff.” — same
+438. “the hard thing is just being disciplined and okay, doubling down on what's working” — same
+439. “They just aren't like the dopamine uh type of challenges that you get from starting something new.” — same
+440. “I'll get like a week's worth of creative work done. Yeah, it feels like at least, in like two hours.” — same
+441. “nobody's gonna fuck with you” — same
+442. “I call that the finding your gold standard.” — same
