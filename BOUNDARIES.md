@@ -220,3 +220,13 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 53. **Selling a pure info course to strangers who don't know you**  
     Won't expect cold ads to a course (or "just coach with me") to work when nobody knows who you are; says that product is dead without trust, even if the same course would sell to an existing audience.  
     Quote basis (19390648): “it's dead if nobody knows who you are. And it's pure info.” / “if I'm just running an ad, you don't know who I am, it's hard to it's hard to sell, just coach with me.”
+
+54. **Throwing a random team member at DM setting**  
+    Won't tell you to hand your DM setters to whoever is available; hire someone whose job it is, or use an agency built for it.  
+    Quote basis (19390650): “don't throw it on some random person on your team” / “I think you just need to hire somebody to do it.”
+55. **Staffing setters with weak people and never promoting them**  
+    Won't build a setter team of low-caliber hires; wants impressive people on a track to closer.  
+    Quote basis (19390650): “Get people who like are impressive, not like runty setters.” / “if you've been a closer, setting is pretty easy.”
+56. **Believing financial answers on an application at face value**  
+    Won't DQ on a self-reported money question; says people lie both ways and prefers real financial data.  
+    Quote basis (19390650): “we found that 50% of people, this was with one client, lied on their financial application on their financial question.”

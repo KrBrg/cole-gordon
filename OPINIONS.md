@@ -528,3 +528,16 @@ Source: https://www.buzzsprout.com/2624998/19390648/transcript.json (Cole = SPEA
 - **Protected creative time compounds.** For him, Saturdays can produce what feels like a week's worth of creative work in about two hours, because nobody is going to interrupt.
 - **Find the gold standard, then replicate.** When founders hire their first rep to get off the phone, they often don't know what good looks like. The hard part is finding the first person or first few; then take those traits and hire against them. Going from zero to one on a sales team is harder than going from one to four once everything else can scale. (Consistent with the earlier "hardest hire is the first salesperson" line; this is the evaluate-then-clone frame.)
 - **Hire a team that has already worked together (X).** Some of the biggest lifts he's seen come from hiring a whole team that's already worked together. Matt Ryder's "championship team vs all-star team" phrasing stays Matt's, not Cole's coinage.
+
+
+## Setters who can close, fringe-deal call reviews, lying on financial questions, deliverability, going upmarket horizontally, and content attribution (Buzzsprout 19390650 backfill, 2026-03-09 — “Business Lessons From a Combined $231,000,000+ (w/ Ryan Clogg)”) + X incremental 2026-11-09
+Source: https://www.buzzsprout.com/2624998/19390650/transcript.json (Cole = SPEAKER_04, the host; Ryan Clogg = SPEAKER_01). X: https://x.com/realcolegordon/status/2119550537138069810. Guest claims and the mastermind ad not attributed to Cole.
+- **Make setting a track to closer.** Staff setters with people who could close: ramp time drops from roughly 30 to 45 days to a week or even a day, show rate and close rate both rise because the first call already shifts the prospect's thinking. Get impressive people, not "runty setters"; he guessed profit impact at about 150%.
+- **Old leads deserve a real team.** He admits it's embarrassing that, despite industry benchmarks, he never took an old-lead setter team seriously until hearing another operator added a million a month that way.
+- **Review the fringe deals.** Target call reviews at calls that should have closed but didn't, and flag them with AI rather than reviewing everything.
+- **Financial qualifier questions lie.** With one client about half of the people who said they had no money had money and vice versa, so removing the question raised throughput about 20%; use paid financial data (about two bucks) to grade and route instead.
+- **Compliance drives deliverability drives results.** Dialer and SMS work better when set up the way the platform wants.
+- **Break social out from ads.** It's a totally different department and meeting; agencies are fine at first but the best people have it in-house; don't hand DM setting to a random team member, hire someone for it.
+- **Health offers: brand is the lever.** The only other way past a hundred million in health is brand, not offer tweaks.
+- **Don't lock into one identity.** He was cornered as "the sales guy", wandered through portfolio/medical/PE identity crises, and decided the play is professional services (recruiting) sold upmarket and horizontally across industries.
+- **Content sales show up as indirect attribution (X).** Early content got no visible buyers in direct attribution; months later his team found a lot of sales came from it.

@@ -574,3 +574,23 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 440. “I'll get like a week's worth of creative work done. Yeah, it feels like at least, in like two hours.” — same
 441. “nobody's gonna fuck with you” — same
 442. “I call that the finding your gold standard.” — same
+
+### Short posts — incremental 2026-11-09 (X, 2026-11-08)
+443. “I was looking at direct attribution. A few months later, my team told me we were making a lot of sales from the content.” — https://x.com/realcolegordon/status/2119550537138069810
+
+### Spoken — Buzzsprout 19390650 “Business Lessons From a Combined $231,000,000+ (w/ Ryan Clogg)” (2026-03-09, Cole = SPEAKER_04)
+444. “it's kind of embarrassing because I should know this” — https://www.buzzsprout.com/2624998/19390650/transcript.json
+445. “if you've been a closer, setting is pretty easy.” — same
+446. “Get people who like are impressive, not like runty setters.” — same
+447. “the calls I call the fringe deals.” — same
+448. “we found that 50% of people, this was with one client, lied on their financial application on their financial question.” — same
+449. “whenever you have more compliance, you have more deliverability, and when you have more deliverability, you have more results.” — same
+450. “a totally different department than your ads” — same
+451. “all the best people have it internal.” — same
+452. “don't throw it on some random person on your team” — same
+453. “I think you just need to hire somebody to do it.” — same
+454. “I don't want to be like Jeremy Minor, right?” — same
+455. “Do I want to make every video about sales? I just don't, right?” — same
+456. “I was kind of cornered into that identity” — same
+457. “am I a private equity guy?” — same
+458. “I think that you just gotta do a lot of dumb shit, to be quite frank.” — same
