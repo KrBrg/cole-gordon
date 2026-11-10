@@ -230,3 +230,14 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 56. **Believing financial answers on an application at face value**  
     Won't DQ on a self-reported money question; says people lie both ways and prefers real financial data.  
     Quote basis (19390650): “we found that 50% of people, this was with one client, lied on their financial application on their financial question.”
+
+
+57. **Running a funnel-to-one-video play for a B2B offer**  
+    Won't tell you to copy the B2C "all videos point to one video" move; for B2B he says run a direct ad and get to the point.  
+    Quote basis (19390651): “I think it's a B2C thing, not a B2B.” / “just run a direct ad and get to the point.”
+58. **Selling pure information in a commoditized market**  
+    Won't pitch an info-only offer to B2B owners; says you need a service.  
+    Quote basis (19390651): “I think right now, if you're not doing a service, you're cooked.”
+59. **Paying setters $3-4k a month and expecting future closers**  
+    Won't build a bottom-paid setter team; raised commissions, cut headcount and got better performance at the same spend.  
+    Quote basis (X 2026-11-09): “Most people want their setters making $3k or $4k a month, then wonder why none of them ever become good salespeople…”

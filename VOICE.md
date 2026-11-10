@@ -594,3 +594,23 @@ Cole sounds like a working high-ticket sales operator who also runs staffing/tra
 456. “I was kind of cornered into that identity” — same
 457. “am I a private equity guy?” — same
 458. “I think that you just gotta do a lot of dumb shit, to be quite frank.” — same
+
+
+### Short posts — incremental 2026-11-10 (X, 2026-11-09)
+459. “Most people want their setters making $3k or $4k a month, then wonder why none of them ever become good salespeople…” — https://x.com/realcolegordon/status/2119867622779179322
+460. “I raised my team's commissions by 30% and cut headcount. We spend the same as we did six months ago, and performance is up 50 to 70%.” — same
+
+### Spoken — Buzzsprout 19390651 “The Reality of Building a $100M Business in 2026 (w/ Ravi Abuvala)” (2026-03-09, Cole = SPEAKER_02)
+461. “I think right now, if you're not doing a service, you're cooked.” — https://www.buzzsprout.com/2624998/19390651/transcript.json
+462. “I think it's a B2C thing, not a B2B.” — same
+463. “if you're B2B, it's just like it's the same thing as like if you're B2B and you're running an ad, just run a direct ad and get to the point.” — same
+464. “anything I've created that's been highly valuable and long and very in-depth, no views in the beginning, but people will come back to it.” — same
+465. “If it's content, people save, and then they're like, oh I'm gonna study this.” — same
+466. “we only serve really like online service-based businesses who need sales reps.” — same
+467. “we're way faster to get salespeople than the traditional recruiter.” — same
+468. “good salespeople know other good salespeople.” — same
+469. “I was like, I don't know, two hours a week.” — same
+470. “people want the SOP. So let me just write it on a Google Doc.” — same
+471. “My setter just tries to set them.” — same
+472. “It's just spilling over.” — same
+473. “it's not the lease, it's the build out.” — same

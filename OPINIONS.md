@@ -541,3 +541,17 @@ Source: https://www.buzzsprout.com/2624998/19390650/transcript.json (Cole = SPEA
 - **Health offers: brand is the lever.** The only other way past a hundred million in health is brand, not offer tweaks.
 - **Don't lock into one identity.** He was cornered as "the sales guy", wandered through portfolio/medical/PE identity crises, and decided the play is professional services (recruiting) sold upmarket and horizontally across industries.
 - **Content sales show up as indirect attribution (X).** Early content got no visible buyers in direct attribution; months later his team found a lot of sales came from it.
+
+
+## Services, content and the broader-market pivot (Buzzsprout 19390651 backfill, 2026-03-09 — “The Reality of Building a $100M Business in 2026 (w/ Ravi Abuvala)”)
+Source: https://www.buzzsprout.com/2624998/19390651/transcript.json. Cole = SPEAKER_02 (first-person Closers recruiting/setters stories, Hormozi office visit); Ravi Abuvala = SPEAKER_00; SPEAKER_01 ad read excluded. Plus 2 X posts (2026-11-09).
+- **Info is commoditized; a service is the safe bet.** For B2B, "if you're not doing a service, you're cooked"; B2C biz-op is much harder with so much YouTube content.
+- **Direct response for B2B, funnel-to-one-video is a B2C thing.** If you're B2B, run a direct ad and get to the point; selling hard on YouTube costs a creator brand credibility.
+- **Long in-depth content compounds slowly.** His best-performing pieces (an hour of objection-handling scripts, a five-hour sales course) get no views at first, then people save and return to them.
+- **Two channels.** Keep the current channel for tactical business/sales content; start a second, broad channel to bring views, with spillover to the first.
+- **Books and long-form create spillover.** Podcast tours and events make the brand look like it's popping; the lift is spillover.
+- **Docs over slides.** People want the SOP, so write the course in a Google Doc and record it.
+- **Content spend and time.** Told Hormozi he spent about $1k/month and two hours a week on content; the lesson was to raise both. Relayed from Hormozi (not attributed to Hormozi as a quote).
+- **Recruiting pitch: faster, cheaper, sales-only.** Closers is way faster than traditional recruiters, charges lower rates on bulk deals, only does sales, and staffs with salespeople because good salespeople know other good salespeople. Going broader means lower-middle-market, not every industry.
+- **Media build-out cost is the buildout, not the lease.** Chose not to spend ~3 months and ~150k on an office build-out before the media team is in rhythm.
+- **Pay setters well and keep fewer (X).** Raised commissions 30% and cut headcount; same spend as six months ago, performance up 50 to 70%; setters on $3k-4k a month rarely become good salespeople.
